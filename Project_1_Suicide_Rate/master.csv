@@ -1,4 +1,4 @@
-﻿country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
 Albania,1987,male,15-24 years,21,312900,6.71,Albania1987,,"2,156,624,900",796,Generation X
 Albania,1987,male,35-54 years,16,308000,5.19,Albania1987,,"2,156,624,900",796,Silent
 Albania,1987,female,15-24 years,14,289700,4.83,Albania1987,,"2,156,624,900",796,Generation X
@@ -20229,378 +20229,378 @@ Qatar,2016,female,15-24 years,0,88675,0,Qatar2016,,"152,451,923,077",62484,Mille
 Qatar,2016,female,55-74 years,0,26182,0,Qatar2016,,"152,451,923,077",62484,Boomers
 Qatar,2016,female,75+ years,0,3250,0,Qatar2016,,"152,451,923,077",62484,Silent
 Qatar,2016,male,75+ years,0,6093,0,Qatar2016,,"152,451,923,077",62484,Silent
-Republic of Korea,1985,male,75+ years,42,154800,27.13,Republic of Korea1985,,"100,273,097,170",2731,G.I. Generation
-Republic of Korea,1985,male,55-74 years,393,1498300,26.23,Republic of Korea1985,,"100,273,097,170",2731,G.I. Generation
-Republic of Korea,1985,male,35-54 years,903,4285700,21.07,Republic of Korea1985,,"100,273,097,170",2731,Silent
-Republic of Korea,1985,male,25-34 years,655,3616800,18.11,Republic of Korea1985,,"100,273,097,170",2731,Boomers
-Republic of Korea,1985,male,15-24 years,678,4413000,15.36,Republic of Korea1985,,"100,273,097,170",2731,Generation X
-Republic of Korea,1985,female,75+ years,38,370700,10.25,Republic of Korea1985,,"100,273,097,170",2731,G.I. Generation
-Republic of Korea,1985,female,55-74 years,161,2000500,8.05,Republic of Korea1985,,"100,273,097,170",2731,G.I. Generation
-Republic of Korea,1985,female,15-24 years,296,4148300,7.14,Republic of Korea1985,,"100,273,097,170",2731,Generation X
-Republic of Korea,1985,female,25-34 years,228,3568800,6.39,Republic of Korea1985,,"100,273,097,170",2731,Boomers
-Republic of Korea,1985,female,35-54 years,262,4267400,6.14,Republic of Korea1985,,"100,273,097,170",2731,Silent
-Republic of Korea,1985,male,5-14 years,20,4336000,0.46,Republic of Korea1985,,"100,273,097,170",2731,Generation X
-Republic of Korea,1985,female,5-14 years,13,4056400,0.32,Republic of Korea1985,,"100,273,097,170",2731,Generation X
-Republic of Korea,1986,male,75+ years,59,160500,36.76,Republic of Korea1986,,"115,537,126,326",3078,G.I. Generation
-Republic of Korea,1986,male,55-74 years,377,1555500,24.24,Republic of Korea1986,,"115,537,126,326",3078,G.I. Generation
-Republic of Korea,1986,male,35-54 years,827,4507500,18.35,Republic of Korea1986,,"115,537,126,326",3078,Silent
-Republic of Korea,1986,male,25-34 years,671,3832600,17.51,Republic of Korea1986,,"115,537,126,326",3078,Boomers
-Republic of Korea,1986,male,15-24 years,616,4499600,13.69,Republic of Korea1986,,"115,537,126,326",3078,Generation X
-Republic of Korea,1986,female,75+ years,30,378000,7.94,Republic of Korea1986,,"115,537,126,326",3078,G.I. Generation
-Republic of Korea,1986,female,25-34 years,250,3656500,6.84,Republic of Korea1986,,"115,537,126,326",3078,Boomers
-Republic of Korea,1986,female,55-74 years,129,2039900,6.32,Republic of Korea1986,,"115,537,126,326",3078,G.I. Generation
-Republic of Korea,1986,female,15-24 years,237,4244400,5.58,Republic of Korea1986,,"115,537,126,326",3078,Generation X
-Republic of Korea,1986,female,35-54 years,236,4325800,5.46,Republic of Korea1986,,"115,537,126,326",3078,Silent
-Republic of Korea,1986,male,5-14 years,18,4308100,0.42,Republic of Korea1986,,"115,537,126,326",3078,Generation X
-Republic of Korea,1986,female,5-14 years,8,4032000,0.2,Republic of Korea1986,,"115,537,126,326",3078,Generation X
-Republic of Korea,1987,male,75+ years,44,163700,26.88,Republic of Korea1987,,"146,133,338,196",3834,G.I. Generation
-Republic of Korea,1987,male,55-74 years,380,1607800,23.63,Republic of Korea1987,,"146,133,338,196",3834,G.I. Generation
-Republic of Korea,1987,male,25-34 years,675,3973800,16.99,Republic of Korea1987,,"146,133,338,196",3834,Boomers
-Republic of Korea,1987,male,35-54 years,781,4617500,16.91,Republic of Korea1987,,"146,133,338,196",3834,Silent
-Republic of Korea,1987,male,15-24 years,493,4536200,10.87,Republic of Korea1987,,"146,133,338,196",3834,Generation X
-Republic of Korea,1987,female,75+ years,30,389400,7.7,Republic of Korea1987,,"146,133,338,196",3834,G.I. Generation
-Republic of Korea,1987,female,55-74 years,152,2113500,7.19,Republic of Korea1987,,"146,133,338,196",3834,G.I. Generation
-Republic of Korea,1987,female,25-34 years,254,3813900,6.66,Republic of Korea1987,,"146,133,338,196",3834,Boomers
-Republic of Korea,1987,female,35-54 years,229,4388200,5.22,Republic of Korea1987,,"146,133,338,196",3834,Silent
-Republic of Korea,1987,female,15-24 years,221,4265300,5.18,Republic of Korea1987,,"146,133,338,196",3834,Generation X
-Republic of Korea,1987,male,5-14 years,27,4259100,0.63,Republic of Korea1987,,"146,133,338,196",3834,Generation X
-Republic of Korea,1987,female,5-14 years,15,3986500,0.38,Republic of Korea1987,,"146,133,338,196",3834,Generation X
-Republic of Korea,1988,male,75+ years,44,179000,24.58,Republic of Korea1988,,"196,964,195,387",5089,G.I. Generation
-Republic of Korea,1988,male,55-74 years,281,1684400,16.68,Republic of Korea1988,,"196,964,195,387",5089,G.I. Generation
-Republic of Korea,1988,male,35-54 years,691,4699000,14.71,Republic of Korea1988,,"196,964,195,387",5089,Silent
-Republic of Korea,1988,male,25-34 years,575,4136900,13.9,Republic of Korea1988,,"196,964,195,387",5089,Boomers
-Republic of Korea,1988,female,75+ years,47,412300,11.4,Republic of Korea1988,,"196,964,195,387",5089,G.I. Generation
-Republic of Korea,1988,male,15-24 years,513,4503000,11.39,Republic of Korea1988,,"196,964,195,387",5089,Generation X
-Republic of Korea,1988,female,55-74 years,141,2207300,6.39,Republic of Korea1988,,"196,964,195,387",5089,G.I. Generation
-Republic of Korea,1988,female,25-34 years,206,3966200,5.19,Republic of Korea1988,,"196,964,195,387",5089,Boomers
-Republic of Korea,1988,female,15-24 years,212,4255900,4.98,Republic of Korea1988,,"196,964,195,387",5089,Generation X
-Republic of Korea,1988,female,35-54 years,213,4499800,4.73,Republic of Korea1988,,"196,964,195,387",5089,Silent
-Republic of Korea,1988,male,5-14 years,14,4211600,0.33,Republic of Korea1988,,"196,964,195,387",5089,Generation X
-Republic of Korea,1988,female,5-14 years,12,3945100,0.3,Republic of Korea1988,,"196,964,195,387",5089,Generation X
-Republic of Korea,1989,male,75+ years,59,186600,31.62,Republic of Korea1989,,"243,526,047,717",6217,G.I. Generation
-Republic of Korea,1989,male,55-74 years,314,1763900,17.8,Republic of Korea1989,,"243,526,047,717",6217,G.I. Generation
-Republic of Korea,1989,male,35-54 years,693,4820500,14.38,Republic of Korea1989,,"243,526,047,717",6217,Silent
-Republic of Korea,1989,male,25-34 years,574,4239100,13.54,Republic of Korea1989,,"243,526,047,717",6217,Boomers
-Republic of Korea,1989,female,75+ years,46,429800,10.7,Republic of Korea1989,,"243,526,047,717",6217,G.I. Generation
-Republic of Korea,1989,male,15-24 years,464,4502500,10.31,Republic of Korea1989,,"243,526,047,717",6217,Generation X
-Republic of Korea,1989,female,55-74 years,136,2301300,5.91,Republic of Korea1989,,"243,526,047,717",6217,G.I. Generation
-Republic of Korea,1989,female,25-34 years,233,4069200,5.73,Republic of Korea1989,,"243,526,047,717",6217,Boomers
-Republic of Korea,1989,female,35-54 years,262,4618800,5.67,Republic of Korea1989,,"243,526,047,717",6217,Silent
-Republic of Korea,1989,female,15-24 years,207,4256500,4.86,Republic of Korea1989,,"243,526,047,717",6217,Generation X
-Republic of Korea,1989,male,5-14 years,20,4122100,0.49,Republic of Korea1989,,"243,526,047,717",6217,Generation X
-Republic of Korea,1989,female,5-14 years,15,3861200,0.39,Republic of Korea1989,,"243,526,047,717",6217,Generation X
-Republic of Korea,1990,male,75+ years,53,194400,27.26,Republic of Korea1990,,"279,349,355,714",7056,G.I. Generation
-Republic of Korea,1990,male,55-74 years,352,1859100,18.93,Republic of Korea1990,,"279,349,355,714",7056,G.I. Generation
-Republic of Korea,1990,male,35-54 years,736,4981300,14.78,Republic of Korea1990,,"279,349,355,714",7056,Silent
-Republic of Korea,1990,male,25-34 years,550,4270100,12.88,Republic of Korea1990,,"279,349,355,714",7056,Boomers
-Republic of Korea,1990,female,75+ years,52,450100,11.55,Republic of Korea1990,,"279,349,355,714",7056,G.I. Generation
-Republic of Korea,1990,male,15-24 years,480,4502200,10.66,Republic of Korea1990,,"279,349,355,714",7056,Generation X
-Republic of Korea,1990,female,25-34 years,269,4102400,6.56,Republic of Korea1990,,"279,349,355,714",7056,Boomers
-Republic of Korea,1990,female,55-74 years,153,2400600,6.37,Republic of Korea1990,,"279,349,355,714",7056,G.I. Generation
-Republic of Korea,1990,female,15-24 years,232,4250500,5.46,Republic of Korea1990,,"279,349,355,714",7056,Generation X
-Republic of Korea,1990,female,35-54 years,242,4781300,5.06,Republic of Korea1990,,"279,349,355,714",7056,Silent
-Republic of Korea,1990,male,5-14 years,26,4028200,0.65,Republic of Korea1990,,"279,349,355,714",7056,Generation X
-Republic of Korea,1990,female,5-14 years,14,3769300,0.37,Republic of Korea1990,,"279,349,355,714",7056,Generation X
-Republic of Korea,1991,male,75+ years,55,203800,26.99,Republic of Korea1991,,"325,734,233,313",8145,G.I. Generation
-Republic of Korea,1991,male,55-74 years,331,1948900,16.98,Republic of Korea1991,,"325,734,233,313",8145,Silent
-Republic of Korea,1991,male,35-54 years,708,5151700,13.74,Republic of Korea1991,,"325,734,233,313",8145,Boomers
-Republic of Korea,1991,male,25-34 years,568,4281300,13.27,Republic of Korea1991,,"325,734,233,313",8145,Boomers
-Republic of Korea,1991,female,75+ years,56,469000,11.94,Republic of Korea1991,,"325,734,233,313",8145,G.I. Generation
-Republic of Korea,1991,male,15-24 years,451,4484500,10.06,Republic of Korea1991,,"325,734,233,313",8145,Generation X
-Republic of Korea,1991,female,55-74 years,154,2489000,6.19,Republic of Korea1991,,"325,734,233,313",8145,Silent
-Republic of Korea,1991,female,25-34 years,247,4115000,6,Republic of Korea1991,,"325,734,233,313",8145,Boomers
-Republic of Korea,1991,female,35-54 years,256,4951200,5.17,Republic of Korea1991,,"325,734,233,313",8145,Boomers
-Republic of Korea,1991,female,15-24 years,201,4226500,4.76,Republic of Korea1991,,"325,734,233,313",8145,Generation X
-Republic of Korea,1991,male,5-14 years,26,3973100,0.65,Republic of Korea1991,,"325,734,233,313",8145,Millenials
-Republic of Korea,1991,female,5-14 years,16,3699700,0.43,Republic of Korea1991,,"325,734,233,313",8145,Millenials
-Republic of Korea,1992,male,75+ years,56,214000,26.17,Republic of Korea1992,,"350,051,111,253",8671,G.I. Generation
-Republic of Korea,1992,male,55-74 years,438,2042700,21.44,Republic of Korea1992,,"350,051,111,253",8671,Silent
-Republic of Korea,1992,male,35-54 years,823,5317000,15.48,Republic of Korea1992,,"350,051,111,253",8671,Boomers
-Republic of Korea,1992,male,25-34 years,644,4294600,15,Republic of Korea1992,,"350,051,111,253",8671,Boomers
-Republic of Korea,1992,female,75+ years,60,487200,12.32,Republic of Korea1992,,"350,051,111,253",8671,G.I. Generation
-Republic of Korea,1992,male,15-24 years,480,4456500,10.77,Republic of Korea1992,,"350,051,111,253",8671,Generation X
-Republic of Korea,1992,female,55-74 years,182,2578400,7.06,Republic of Korea1992,,"350,051,111,253",8671,Silent
-Republic of Korea,1992,female,25-34 years,267,4125000,6.47,Republic of Korea1992,,"350,051,111,253",8671,Boomers
-Republic of Korea,1992,female,35-54 years,312,5119600,6.09,Republic of Korea1992,,"350,051,111,253",8671,Boomers
-Republic of Korea,1992,female,15-24 years,222,4195700,5.29,Republic of Korea1992,,"350,051,111,253",8671,Generation X
-Republic of Korea,1992,male,5-14 years,26,3906100,0.67,Republic of Korea1992,,"350,051,111,253",8671,Millenials
-Republic of Korea,1992,female,5-14 years,23,3634400,0.63,Republic of Korea1992,,"350,051,111,253",8671,Millenials
-Republic of Korea,1993,male,75+ years,91,221700,41.05,Republic of Korea1993,,"386,302,839,274",9479,G.I. Generation
-Republic of Korea,1993,male,55-74 years,524,2145400,24.42,Republic of Korea1993,,"386,302,839,274",9479,Silent
-Republic of Korea,1993,male,35-54 years,1040,5494900,18.93,Republic of Korea1993,,"386,302,839,274",9479,Boomers
-Republic of Korea,1993,female,75+ years,91,501700,18.14,Republic of Korea1993,,"386,302,839,274",9479,G.I. Generation
-Republic of Korea,1993,male,25-34 years,646,4306500,15,Republic of Korea1993,,"386,302,839,274",9479,Boomers
-Republic of Korea,1993,male,15-24 years,522,4405500,11.85,Republic of Korea1993,,"386,302,839,274",9479,Generation X
-Republic of Korea,1993,female,25-34 years,322,4131600,7.79,Republic of Korea1993,,"386,302,839,274",9479,Boomers
-Republic of Korea,1993,female,55-74 years,207,2673200,7.74,Republic of Korea1993,,"386,302,839,274",9479,Silent
-Republic of Korea,1993,female,35-54 years,381,5301200,7.19,Republic of Korea1993,,"386,302,839,274",9479,Boomers
-Republic of Korea,1993,female,15-24 years,253,4146800,6.1,Republic of Korea1993,,"386,302,839,274",9479,Generation X
-Republic of Korea,1993,male,5-14 years,25,3855600,0.65,Republic of Korea1993,,"386,302,839,274",9479,Millenials
-Republic of Korea,1993,female,5-14 years,22,3570700,0.62,Republic of Korea1993,,"386,302,839,274",9479,Millenials
-Republic of Korea,1994,male,75+ years,105,227600,46.13,Republic of Korea1994,,"455,602,962,225",11073,G.I. Generation
-Republic of Korea,1994,male,55-74 years,546,2249100,24.28,Republic of Korea1994,,"455,602,962,225",11073,Silent
-Republic of Korea,1994,female,75+ years,93,512500,18.15,Republic of Korea1994,,"455,602,962,225",11073,G.I. Generation
-Republic of Korea,1994,male,35-54 years,1025,5690100,18.01,Republic of Korea1994,,"455,602,962,225",11073,Boomers
-Republic of Korea,1994,male,25-34 years,681,4326600,15.74,Republic of Korea1994,,"455,602,962,225",11073,Boomers
-Republic of Korea,1994,male,15-24 years,479,4353800,11,Republic of Korea1994,,"455,602,962,225",11073,Generation X
-Republic of Korea,1994,female,55-74 years,264,2774600,9.51,Republic of Korea1994,,"455,602,962,225",11073,Silent
-Republic of Korea,1994,female,25-34 years,337,4144000,8.13,Republic of Korea1994,,"455,602,962,225",11073,Boomers
-Republic of Korea,1994,female,35-54 years,383,5495100,6.97,Republic of Korea1994,,"455,602,962,225",11073,Boomers
-Republic of Korea,1994,female,15-24 years,243,4098900,5.93,Republic of Korea1994,,"455,602,962,225",11073,Generation X
-Republic of Korea,1994,female,5-14 years,30,3485300,0.86,Republic of Korea1994,,"455,602,962,225",11073,Millenials
-Republic of Korea,1994,male,5-14 years,26,3787700,0.69,Republic of Korea1994,,"455,602,962,225",11073,Millenials
-Republic of Korea,1995,male,75+ years,126,265000,47.55,Republic of Korea1995,,"556,130,926,913",13217,G.I. Generation
-Republic of Korea,1995,male,55-74 years,638,2212100,28.84,Republic of Korea1995,,"556,130,926,913",13217,Silent
-Republic of Korea,1995,male,35-54 years,1265,5928800,21.34,Republic of Korea1995,,"556,130,926,913",13217,Boomers
-Republic of Korea,1995,female,75+ years,112,593200,18.88,Republic of Korea1995,,"556,130,926,913",13217,G.I. Generation
-Republic of Korea,1995,male,25-34 years,759,4627000,16.4,Republic of Korea1995,,"556,130,926,913",13217,Generation X
-Republic of Korea,1995,male,15-24 years,501,4349400,11.52,Republic of Korea1995,,"556,130,926,913",13217,Generation X
-Republic of Korea,1995,female,55-74 years,281,2860400,9.82,Republic of Korea1995,,"556,130,926,913",13217,Silent
-Republic of Korea,1995,female,25-34 years,373,4375500,8.52,Republic of Korea1995,,"556,130,926,913",13217,Generation X
-Republic of Korea,1995,female,35-54 years,427,5725200,7.46,Republic of Korea1995,,"556,130,926,913",13217,Boomers
-Republic of Korea,1995,female,15-24 years,301,4120600,7.3,Republic of Korea1995,,"556,130,926,913",13217,Generation X
-Republic of Korea,1995,female,5-14 years,28,3367300,0.83,Republic of Korea1995,,"556,130,926,913",13217,Millenials
-Republic of Korea,1995,male,5-14 years,30,3651900,0.82,Republic of Korea1995,,"556,130,926,913",13217,Millenials
-Republic of Korea,1996,male,75+ years,166,279100,59.48,Republic of Korea1996,,"598,099,073,901",14071,G.I. Generation
-Republic of Korea,1996,male,55-74 years,796,2313200,34.41,Republic of Korea1996,,"598,099,073,901",14071,Silent
-Republic of Korea,1996,male,35-54 years,1533,6178700,24.81,Republic of Korea1996,,"598,099,073,901",14071,Boomers
-Republic of Korea,1996,female,75+ years,150,616700,24.32,Republic of Korea1996,,"598,099,073,901",14071,G.I. Generation
-Republic of Korea,1996,male,25-34 years,893,4615200,19.35,Republic of Korea1996,,"598,099,073,901",14071,Generation X
-Republic of Korea,1996,male,15-24 years,619,4291000,14.43,Republic of Korea1996,,"598,099,073,901",14071,Generation X
-Republic of Korea,1996,female,55-74 years,314,2965200,10.59,Republic of Korea1996,,"598,099,073,901",14071,Silent
-Republic of Korea,1996,female,25-34 years,408,4363000,9.35,Republic of Korea1996,,"598,099,073,901",14071,Generation X
-Republic of Korea,1996,female,15-24 years,367,4070800,9.02,Republic of Korea1996,,"598,099,073,901",14071,Generation X
-Republic of Korea,1996,female,35-54 years,532,5968300,8.91,Republic of Korea1996,,"598,099,073,901",14071,Boomers
-Republic of Korea,1996,female,5-14 years,44,3272200,1.34,Republic of Korea1996,,"598,099,073,901",14071,Millenials
-Republic of Korea,1996,male,5-14 years,35,3573700,0.98,Republic of Korea1996,,"598,099,073,901",14071,Millenials
-Republic of Korea,1997,male,75+ years,198,296400,66.8,Republic of Korea1997,,"557,503,074,772",12978,G.I. Generation
-Republic of Korea,1997,male,55-74 years,868,2438200,35.6,Republic of Korea1997,,"557,503,074,772",12978,Silent
-Republic of Korea,1997,female,75+ years,173,647600,26.71,Republic of Korea1997,,"557,503,074,772",12978,G.I. Generation
-Republic of Korea,1997,male,35-54 years,1656,6387700,25.92,Republic of Korea1997,,"557,503,074,772",12978,Boomers
-Republic of Korea,1997,male,25-34 years,881,4602700,19.14,Republic of Korea1997,,"557,503,074,772",12978,Generation X
-Republic of Korea,1997,male,15-24 years,528,4231500,12.48,Republic of Korea1997,,"557,503,074,772",12978,Generation X
-Republic of Korea,1997,female,55-74 years,341,3087800,11.04,Republic of Korea1997,,"557,503,074,772",12978,Silent
-Republic of Korea,1997,female,25-34 years,458,4358400,10.51,Republic of Korea1997,,"557,503,074,772",12978,Generation X
-Republic of Korea,1997,female,35-54 years,535,6163400,8.68,Republic of Korea1997,,"557,503,074,772",12978,Boomers
-Republic of Korea,1997,female,15-24 years,321,4021600,7.98,Republic of Korea1997,,"557,503,074,772",12978,Generation X
-Republic of Korea,1997,female,5-14 years,34,3201300,1.06,Republic of Korea1997,,"557,503,074,772",12978,Millenials
-Republic of Korea,1997,male,5-14 years,31,3519500,0.88,Republic of Korea1997,,"557,503,074,772",12978,Millenials
-Republic of Korea,1998,male,75+ years,258,316200,81.59,Republic of Korea1998,,"374,241,351,752",8624,G.I. Generation
-Republic of Korea,1998,male,55-74 years,1398,2550700,54.81,Republic of Korea1998,,"374,241,351,752",8624,Silent
-Republic of Korea,1998,male,35-54 years,2644,6568200,40.25,Republic of Korea1998,,"374,241,351,752",8624,Boomers
-Republic of Korea,1998,female,75+ years,230,684600,33.6,Republic of Korea1998,,"374,241,351,752",8624,G.I. Generation
-Republic of Korea,1998,male,25-34 years,1240,4604300,26.93,Republic of Korea1998,,"374,241,351,752",8624,Generation X
-Republic of Korea,1998,male,15-24 years,629,4166000,15.1,Republic of Korea1998,,"374,241,351,752",8624,Generation X
-Republic of Korea,1998,female,55-74 years,479,3195400,14.99,Republic of Korea1998,,"374,241,351,752",8624,Silent
-Republic of Korea,1998,female,25-34 years,533,4381500,12.16,Republic of Korea1998,,"374,241,351,752",8624,Generation X
-Republic of Korea,1998,female,35-54 years,714,6323400,11.29,Republic of Korea1998,,"374,241,351,752",8624,Boomers
-Republic of Korea,1998,female,15-24 years,371,3956800,9.38,Republic of Korea1998,,"374,241,351,752",8624,Generation X
-Republic of Korea,1998,female,5-14 years,42,3153700,1.33,Republic of Korea1998,,"374,241,351,752",8624,Millenials
-Republic of Korea,1998,male,5-14 years,31,3494900,0.89,Republic of Korea1998,,"374,241,351,752",8624,Millenials
-Republic of Korea,1999,male,75+ years,252,332800,75.72,Republic of Korea1999,,"485,248,229,337",11074,G.I. Generation
-Republic of Korea,1999,male,55-74 years,1201,2634700,45.58,Republic of Korea1999,,"485,248,229,337",11074,Silent
-Republic of Korea,1999,male,35-54 years,2087,6758500,30.88,Republic of Korea1999,,"485,248,229,337",11074,Boomers
-Republic of Korea,1999,female,75+ years,213,712800,29.88,Republic of Korea1999,,"485,248,229,337",11074,G.I. Generation
-Republic of Korea,1999,male,25-34 years,901,4611200,19.54,Republic of Korea1999,,"485,248,229,337",11074,Generation X
-Republic of Korea,1999,female,55-74 years,464,3280700,14.14,Republic of Korea1999,,"485,248,229,337",11074,Silent
-Republic of Korea,1999,male,15-24 years,496,4071500,12.18,Republic of Korea1999,,"485,248,229,337",11074,Generation X
-Republic of Korea,1999,female,35-54 years,683,6497300,10.51,Republic of Korea1999,,"485,248,229,337",11074,Boomers
-Republic of Korea,1999,female,25-34 years,411,4405400,9.33,Republic of Korea1999,,"485,248,229,337",11074,Generation X
-Republic of Korea,1999,female,15-24 years,306,3859400,7.93,Republic of Korea1999,,"485,248,229,337",11074,Generation X
-Republic of Korea,1999,female,5-14 years,30,3143200,0.95,Republic of Korea1999,,"485,248,229,337",11074,Millenials
-Republic of Korea,1999,male,5-14 years,31,3509800,0.88,Republic of Korea1999,,"485,248,229,337",11074,Millenials
-Republic of Korea,2000,male,75+ years,282,346040,81.49,Republic of Korea2000,,"561,633,125,840",12686,G.I. Generation
-Republic of Korea,2000,male,55-74 years,1133,2714103,41.74,Republic of Korea2000,,"561,633,125,840",12686,Silent
-Republic of Korea,2000,female,75+ years,238,737452,32.27,Republic of Korea2000,,"561,633,125,840",12686,G.I. Generation
-Republic of Korea,2000,male,35-54 years,1890,6980476,27.08,Republic of Korea2000,,"561,633,125,840",12686,Boomers
-Republic of Korea,2000,male,25-34 years,748,4584802,16.31,Republic of Korea2000,,"561,633,125,840",12686,Generation X
-Republic of Korea,2000,female,55-74 years,481,3355684,14.33,Republic of Korea2000,,"561,633,125,840",12686,Silent
-Republic of Korea,2000,male,15-24 years,408,3982626,10.24,Republic of Korea2000,,"561,633,125,840",12686,Generation X
-Republic of Korea,2000,female,35-54 years,616,6714173,9.17,Republic of Korea2000,,"561,633,125,840",12686,Boomers
-Republic of Korea,2000,female,25-34 years,353,4386309,8.05,Republic of Korea2000,,"561,633,125,840",12686,Generation X
-Republic of Korea,2000,female,15-24 years,265,3767475,7.03,Republic of Korea2000,,"561,633,125,840",12686,Generation X
-Republic of Korea,2000,male,5-14 years,20,3544949,0.56,Republic of Korea2000,,"561,633,125,840",12686,Millenials
-Republic of Korea,2000,female,5-14 years,10,3157654,0.32,Republic of Korea2000,,"561,633,125,840",12686,Millenials
-Republic of Korea,2001,male,75+ years,328,359104,91.34,Republic of Korea2001,,"533,052,076,314",11922,Silent
-Republic of Korea,2001,male,55-74 years,1331,2796018,47.6,Republic of Korea2001,,"533,052,076,314",11922,Silent
-Republic of Korea,2001,female,75+ years,306,766768,39.91,Republic of Korea2001,,"533,052,076,314",11922,Silent
-Republic of Korea,2001,male,35-54 years,1989,7195715,27.64,Republic of Korea2001,,"533,052,076,314",11922,Boomers
-Republic of Korea,2001,male,25-34 years,835,4535491,18.41,Republic of Korea2001,,"533,052,076,314",11922,Generation X
-Republic of Korea,2001,female,55-74 years,520,3424102,15.19,Republic of Korea2001,,"533,052,076,314",11922,Silent
-Republic of Korea,2001,female,35-54 years,640,6918865,9.25,Republic of Korea2001,,"533,052,076,314",11922,Boomers
-Republic of Korea,2001,male,15-24 years,356,3912425,9.1,Republic of Korea2001,,"533,052,076,314",11922,Millenials
-Republic of Korea,2001,female,25-34 years,344,4355767,7.9,Republic of Korea2001,,"533,052,076,314",11922,Generation X
-Republic of Korea,2001,female,15-24 years,228,3688341,6.18,Republic of Korea2001,,"533,052,076,314",11922,Millenials
-Republic of Korea,2001,female,5-14 years,21,3180198,0.66,Republic of Korea2001,,"533,052,076,314",11922,Millenials
-Republic of Korea,2001,male,5-14 years,13,3578071,0.36,Republic of Korea2001,,"533,052,076,314",11922,Millenials
-Republic of Korea,2002,male,75+ years,489,374816,130.46,Republic of Korea2002,,"609,020,054,512",13501,Silent
-Republic of Korea,2002,female,75+ years,491,801199,61.28,Republic of Korea2002,,"609,020,054,512",13501,Silent
-Republic of Korea,2002,male,55-74 years,1648,2906720,56.7,Republic of Korea2002,,"609,020,054,512",13501,Silent
-Republic of Korea,2002,male,35-54 years,2444,7370094,33.16,Republic of Korea2002,,"609,020,054,512",13501,Boomers
-Republic of Korea,2002,male,25-34 years,970,4480596,21.65,Republic of Korea2002,,"609,020,054,512",13501,Generation X
-Republic of Korea,2002,female,55-74 years,664,3519055,18.87,Republic of Korea2002,,"609,020,054,512",13501,Silent
-Republic of Korea,2002,female,35-54 years,845,7092799,11.91,Republic of Korea2002,,"609,020,054,512",13501,Boomers
-Republic of Korea,2002,male,15-24 years,374,3836446,9.75,Republic of Korea2002,,"609,020,054,512",13501,Millenials
-Republic of Korea,2002,female,25-34 years,401,4314215,9.29,Republic of Korea2002,,"609,020,054,512",13501,Generation X
-Republic of Korea,2002,female,15-24 years,254,3602297,7.05,Republic of Korea2002,,"609,020,054,512",13501,Millenials
-Republic of Korea,2002,female,5-14 years,17,3205108,0.53,Republic of Korea2002,,"609,020,054,512",13501,Millenials
-Republic of Korea,2002,male,5-14 years,14,3606696,0.39,Republic of Korea2002,,"609,020,054,512",13501,Millenials
-Republic of Korea,2003,male,75+ years,674,394465,170.86,Republic of Korea2003,,"680,520,724,062",14971,Silent
-Republic of Korea,2003,male,55-74 years,2239,3032808,73.83,Republic of Korea2003,,"680,520,724,062",14971,Silent
-Republic of Korea,2003,female,75+ years,601,843447,71.26,Republic of Korea2003,,"680,520,724,062",14971,Silent
-Republic of Korea,2003,male,35-54 years,3005,7532153,39.9,Republic of Korea2003,,"680,520,724,062",14971,Boomers
-Republic of Korea,2003,male,25-34 years,1086,4394597,24.71,Republic of Korea2003,,"680,520,724,062",14971,Generation X
-Republic of Korea,2003,female,55-74 years,855,3624827,23.59,Republic of Korea2003,,"680,520,724,062",14971,Silent
-Republic of Korea,2003,female,35-54 years,1091,7273425,15,Republic of Korea2003,,"680,520,724,062",14971,Boomers
-Republic of Korea,2003,male,15-24 years,495,3769703,13.13,Republic of Korea2003,,"680,520,724,062",14971,Millenials
-Republic of Korea,2003,female,25-34 years,503,4221700,11.91,Republic of Korea2003,,"680,520,724,062",14971,Generation X
-Republic of Korea,2003,female,15-24 years,316,3526768,8.96,Republic of Korea2003,,"680,520,724,062",14971,Millenials
-Republic of Korea,2003,female,5-14 years,18,3221172,0.56,Republic of Korea2003,,"680,520,724,062",14971,Millenials
-Republic of Korea,2003,male,5-14 years,15,3620823,0.41,Republic of Korea2003,,"680,520,724,062",14971,Millenials
-Republic of Korea,2004,male,75+ years,722,417832,172.8,Republic of Korea2004,,"764,880,644,711",16708,Silent
-Republic of Korea,2004,male,55-74 years,2574,3153226,81.63,Republic of Korea2004,,"764,880,644,711",16708,Silent
-Republic of Korea,2004,female,75+ years,695,890935,78.01,Republic of Korea2004,,"764,880,644,711",16708,Silent
-Republic of Korea,2004,male,35-54 years,3227,7713408,41.84,Republic of Korea2004,,"764,880,644,711",16708,Boomers
-Republic of Korea,2004,female,55-74 years,969,3722261,26.03,Republic of Korea2004,,"764,880,644,711",16708,Silent
-Republic of Korea,2004,male,25-34 years,912,4306280,21.18,Republic of Korea2004,,"764,880,644,711",16708,Generation X
-Republic of Korea,2004,female,35-54 years,1154,7465643,15.46,Republic of Korea2004,,"764,880,644,711",16708,Boomers
-Republic of Korea,2004,female,25-34 years,496,4130154,12.01,Republic of Korea2004,,"764,880,644,711",16708,Generation X
-Republic of Korea,2004,male,15-24 years,423,3697288,11.44,Republic of Korea2004,,"764,880,644,711",16708,Millenials
-Republic of Korea,2004,female,15-24 years,277,3443539,8.04,Republic of Korea2004,,"764,880,644,711",16708,Millenials
-Republic of Korea,2004,female,5-14 years,22,3222667,0.68,Republic of Korea2004,,"764,880,644,711",16708,Millenials
-Republic of Korea,2004,male,5-14 years,21,3616737,0.58,Republic of Korea2004,,"764,880,644,711",16708,Millenials
-Republic of Korea,2005,male,75+ years,780,442349,176.33,Republic of Korea2005,,"898,137,194,716",19460,Silent
-Republic of Korea,2005,male,55-74 years,2680,3271489,81.92,Republic of Korea2005,,"898,137,194,716",19460,Silent
-Republic of Korea,2005,female,75+ years,700,942895,74.24,Republic of Korea2005,,"898,137,194,716",19460,Silent
-Republic of Korea,2005,male,35-54 years,3109,7909318,39.31,Republic of Korea2005,,"898,137,194,716",19460,Boomers
-Republic of Korea,2005,female,55-74 years,986,3815878,25.84,Republic of Korea2005,,"898,137,194,716",19460,Silent
-Republic of Korea,2005,male,25-34 years,1010,4254877,23.74,Republic of Korea2005,,"898,137,194,716",19460,Generation X
-Republic of Korea,2005,female,25-34 years,679,4080577,16.64,Republic of Korea2005,,"898,137,194,716",19460,Generation X
-Republic of Korea,2005,female,35-54 years,1179,7663628,15.38,Republic of Korea2005,,"898,137,194,716",19460,Boomers
-Republic of Korea,2005,female,15-24 years,421,3334069,12.63,Republic of Korea2005,,"898,137,194,716",19460,Millenials
-Republic of Korea,2005,male,15-24 years,426,3606285,11.81,Republic of Korea2005,,"898,137,194,716",19460,Millenials
-Republic of Korea,2005,female,5-14 years,20,3223612,0.62,Republic of Korea2005,,"898,137,194,716",19460,Millenials
-Republic of Korea,2005,male,5-14 years,21,3606907,0.58,Republic of Korea2005,,"898,137,194,716",19460,Millenials
-Republic of Korea,2006,male,75+ years,722,466922,154.63,Republic of Korea2006,,"1,011,797,457,139",21753,Silent
-Republic of Korea,2006,male,55-74 years,2506,3379258,74.16,Republic of Korea2006,,"1,011,797,457,139",21753,Silent
-Republic of Korea,2006,female,75+ years,700,995303,70.33,Republic of Korea2006,,"1,011,797,457,139",21753,Silent
-Republic of Korea,2006,male,35-54 years,2878,8129944,35.4,Republic of Korea2006,,"1,011,797,457,139",21753,Boomers
-Republic of Korea,2006,female,55-74 years,895,3899641,22.95,Republic of Korea2006,,"1,011,797,457,139",21753,Silent
-Republic of Korea,2006,male,25-34 years,764,4206010,18.16,Republic of Korea2006,,"1,011,797,457,139",21753,Generation X
-Republic of Korea,2006,female,35-54 years,1036,7878811,13.15,Republic of Korea2006,,"1,011,797,457,139",21753,Boomers
-Republic of Korea,2006,female,25-34 years,490,4032326,12.15,Republic of Korea2006,,"1,011,797,457,139",21753,Generation X
-Republic of Korea,2006,male,15-24 years,342,3529544,9.69,Republic of Korea2006,,"1,011,797,457,139",21753,Millenials
-Republic of Korea,2006,female,15-24 years,285,3240878,8.79,Republic of Korea2006,,"1,011,797,457,139",21753,Millenials
-Republic of Korea,2006,female,5-14 years,20,3194081,0.63,Republic of Korea2006,,"1,011,797,457,139",21753,Millenials
-Republic of Korea,2006,male,5-14 years,15,3561246,0.42,Republic of Korea2006,,"1,011,797,457,139",21753,Millenials
-Republic of Korea,2007,male,75+ years,860,497517,172.86,Republic of Korea2007,,"1,122,679,154,632",23982,Silent
-Republic of Korea,2007,male,55-74 years,2553,3510578,72.72,Republic of Korea2007,,"1,122,679,154,632",23982,Silent
-Republic of Korea,2007,female,75+ years,743,1052764,70.58,Republic of Korea2007,,"1,122,679,154,632",23982,Silent
-Republic of Korea,2007,male,35-54 years,2902,8320051,34.88,Republic of Korea2007,,"1,122,679,154,632",23982,Boomers
-Republic of Korea,2007,female,55-74 years,984,4009684,24.54,Republic of Korea2007,,"1,122,679,154,632",23982,Silent
-Republic of Korea,2007,male,25-34 years,997,4158963,23.97,Republic of Korea2007,,"1,122,679,154,632",23982,Generation X
-Republic of Korea,2007,female,25-34 years,908,3988315,22.77,Republic of Korea2007,,"1,122,679,154,632",23982,Generation X
-Republic of Korea,2007,female,35-54 years,1297,8058659,16.09,Republic of Korea2007,,"1,122,679,154,632",23982,Boomers
-Republic of Korea,2007,female,15-24 years,467,3173279,14.72,Republic of Korea2007,,"1,122,679,154,632",23982,Millenials
-Republic of Korea,2007,male,15-24 years,410,3478791,11.79,Republic of Korea2007,,"1,122,679,154,632",23982,Millenials
-Republic of Korea,2007,female,5-14 years,28,3108585,0.9,Republic of Korea2007,,"1,122,679,154,632",23982,Generation Z
-Republic of Korea,2007,male,5-14 years,25,3457021,0.72,Republic of Korea2007,,"1,122,679,154,632",23982,Generation Z
-Republic of Korea,2008,male,75+ years,828,534462,154.92,Republic of Korea2008,,"1,002,219,052,968",21278,Silent
-Republic of Korea,2008,male,55-74 years,2686,3658864,73.41,Republic of Korea2008,,"1,002,219,052,968",21278,Silent
-Republic of Korea,2008,female,75+ years,755,1118039,67.53,Republic of Korea2008,,"1,002,219,052,968",21278,Silent
-Republic of Korea,2008,male,35-54 years,3265,8479364,38.51,Republic of Korea2008,,"1,002,219,052,968",21278,Boomers
-Republic of Korea,2008,female,25-34 years,943,3931977,23.98,Republic of Korea2008,,"1,002,219,052,968",21278,Generation X
-Republic of Korea,2008,male,25-34 years,977,4106089,23.79,Republic of Korea2008,,"1,002,219,052,968",21278,Generation X
-Republic of Korea,2008,female,55-74 years,964,4138869,23.29,Republic of Korea2008,,"1,002,219,052,968",21278,Silent
-Republic of Korea,2008,female,35-54 years,1500,8209985,18.27,Republic of Korea2008,,"1,002,219,052,968",21278,Boomers
-Republic of Korea,2008,male,15-24 years,481,3456651,13.92,Republic of Korea2008,,"1,002,219,052,968",21278,Millenials
-Republic of Korea,2008,female,15-24 years,410,3128527,13.11,Republic of Korea2008,,"1,002,219,052,968",21278,Millenials
-Republic of Korea,2008,female,5-14 years,26,3008336,0.86,Republic of Korea2008,,"1,002,219,052,968",21278,Generation Z
-Republic of Korea,2008,male,5-14 years,23,3330584,0.69,Republic of Korea2008,,"1,002,219,052,968",21278,Generation Z
-Republic of Korea,2009,male,75+ years,1006,578635,173.86,Republic of Korea2009,,"901,934,953,365",19036,Silent
-Republic of Korea,2009,male,55-74 years,3025,3806592,79.47,Republic of Korea2009,,"901,934,953,365",19036,Silent
-Republic of Korea,2009,female,75+ years,920,1191463,77.22,Republic of Korea2009,,"901,934,953,365",19036,Silent
-Republic of Korea,2009,male,35-54 years,4048,8621339,46.95,Republic of Korea2009,,"901,934,953,365",19036,Boomers
-Republic of Korea,2009,male,25-34 years,1260,4022361,31.32,Republic of Korea2009,,"901,934,953,365",19036,Generation X
-Republic of Korea,2009,female,25-34 years,1121,3844207,29.16,Republic of Korea2009,,"901,934,953,365",19036,Generation X
-Republic of Korea,2009,female,55-74 years,1152,4264449,27.01,Republic of Korea2009,,"901,934,953,365",19036,Silent
-Republic of Korea,2009,female,35-54 years,1780,8350429,21.32,Republic of Korea2009,,"901,934,953,365",19036,Boomers
-Republic of Korea,2009,male,15-24 years,549,3472834,15.81,Republic of Korea2009,,"901,934,953,365",19036,Millenials
-Republic of Korea,2009,female,15-24 years,460,3120462,14.74,Republic of Korea2009,,"901,934,953,365",19036,Millenials
-Republic of Korea,2009,female,5-14 years,42,2908040,1.44,Republic of Korea2009,,"901,934,953,365",19036,Generation Z
-Republic of Korea,2009,male,5-14 years,39,3199206,1.22,Republic of Korea2009,,"901,934,953,365",19036,Generation Z
-Republic of Korea,2010,male,75+ years,1152,631853,182.32,Republic of Korea2010,,"1,094,499,338,703",22994,Silent
-Republic of Korea,2010,male,55-74 years,3298,3986626,82.73,Republic of Korea2010,,"1,094,499,338,703",22994,Silent
-Republic of Korea,2010,female,75+ years,914,1275018,71.69,Republic of Korea2010,,"1,094,499,338,703",22994,Silent
-Republic of Korea,2010,male,35-54 years,4050,8681362,46.65,Republic of Korea2010,,"1,094,499,338,703",22994,Generation X
-Republic of Korea,2010,male,25-34 years,1301,3936496,33.05,Republic of Korea2010,,"1,094,499,338,703",22994,Generation X
-Republic of Korea,2010,female,55-74 years,1200,4424476,27.12,Republic of Korea2010,,"1,094,499,338,703",22994,Silent
-Republic of Korea,2010,female,25-34 years,972,3756347,25.88,Republic of Korea2010,,"1,094,499,338,703",22994,Generation X
-Republic of Korea,2010,female,35-54 years,1745,8411310,20.75,Republic of Korea2010,,"1,094,499,338,703",22994,Generation X
-Republic of Korea,2010,male,15-24 years,493,3509674,14.05,Republic of Korea2010,,"1,094,499,338,703",22994,Millenials
-Republic of Korea,2010,female,15-24 years,372,3137470,11.86,Republic of Korea2010,,"1,094,499,338,703",22994,Millenials
-Republic of Korea,2010,female,5-14 years,34,2793259,1.22,Republic of Korea2010,,"1,094,499,338,703",22994,Generation Z
-Republic of Korea,2010,male,5-14 years,27,3054724,0.88,Republic of Korea2010,,"1,094,499,338,703",22994,Generation Z
-Republic of Korea,2011,male,75+ years,1276,688365,185.37,Republic of Korea2011,,"1,202,463,682,634",25157,Silent
-Republic of Korea,2011,male,55-74 years,3393,4177826,81.21,Republic of Korea2011,,"1,202,463,682,634",25157,Boomers
-Republic of Korea,2011,female,75+ years,894,1360809,65.7,Republic of Korea2011,,"1,202,463,682,634",25157,Silent
-Republic of Korea,2011,male,35-54 years,4255,8696946,48.93,Republic of Korea2011,,"1,202,463,682,634",25157,Generation X
-Republic of Korea,2011,male,25-34 years,1384,3868804,35.77,Republic of Korea2011,,"1,202,463,682,634",25157,Millenials
-Republic of Korea,2011,female,55-74 years,1178,4598818,25.62,Republic of Korea2011,,"1,202,463,682,634",25157,Boomers
-Republic of Korea,2011,female,25-34 years,901,3682791,24.47,Republic of Korea2011,,"1,202,463,682,634",25157,Millenials
-Republic of Korea,2011,female,35-54 years,1694,8426582,20.1,Republic of Korea2011,,"1,202,463,682,634",25157,Generation X
-Republic of Korea,2011,male,15-24 years,528,3543608,14.9,Republic of Korea2011,,"1,202,463,682,634",25157,Millenials
-Republic of Korea,2011,female,15-24 years,347,3161440,10.98,Republic of Korea2011,,"1,202,463,682,634",25157,Millenials
-Republic of Korea,2011,male,5-14 years,30,2914466,1.03,Republic of Korea2011,,"1,202,463,682,634",25157,Generation Z
-Republic of Korea,2011,female,5-14 years,26,2677562,0.97,Republic of Korea2011,,"1,202,463,682,634",25157,Generation Z
-Republic of Korea,2012,male,75+ years,1137,745816,152.45,Republic of Korea2012,,"1,222,807,284,485",25464,Silent
-Republic of Korea,2012,male,55-74 years,3039,4379584,69.39,Republic of Korea2012,,"1,222,807,284,485",25464,Boomers
-Republic of Korea,2012,female,75+ years,887,1444622,61.4,Republic of Korea2012,,"1,222,807,284,485",25464,Silent
-Republic of Korea,2012,male,35-54 years,3732,8693747,42.93,Republic of Korea2012,,"1,222,807,284,485",25464,Generation X
-Republic of Korea,2012,male,25-34 years,1210,3795994,31.88,Republic of Korea2012,,"1,222,807,284,485",25464,Millenials
-Republic of Korea,2012,female,55-74 years,1060,4778393,22.18,Republic of Korea2012,,"1,222,807,284,485",25464,Boomers
-Republic of Korea,2012,female,25-34 years,733,3604570,20.34,Republic of Korea2012,,"1,222,807,284,485",25464,Millenials
-Republic of Korea,2012,female,35-54 years,1539,8431939,18.25,Republic of Korea2012,,"1,222,807,284,485",25464,Generation X
-Republic of Korea,2012,male,15-24 years,475,3573502,13.29,Republic of Korea2012,,"1,222,807,284,485",25464,Millenials
-Republic of Korea,2012,female,15-24 years,299,3188031,9.38,Republic of Korea2012,,"1,222,807,284,485",25464,Millenials
-Republic of Korea,2012,male,5-14 years,28,2802575,1,Republic of Korea2012,,"1,222,807,284,485",25464,Generation Z
-Republic of Korea,2012,female,5-14 years,20,2582212,0.77,Republic of Korea2012,,"1,222,807,284,485",25464,Generation Z
-Republic of Korea,2013,male,75+ years,1191,806960,147.59,Republic of Korea2013,,"1,305,604,981,272",27060,Silent
-Republic of Korea,2013,male,55-74 years,3136,4595358,68.24,Republic of Korea2013,,"1,305,604,981,272",27060,Boomers
-Republic of Korea,2013,female,75+ years,816,1531049,53.3,Republic of Korea2013,,"1,305,604,981,272",27060,Silent
-Republic of Korea,2013,male,35-54 years,4112,8662051,47.47,Republic of Korea2013,,"1,305,604,981,272",27060,Generation X
-Republic of Korea,2013,male,25-34 years,1126,3731895,30.17,Republic of Korea2013,,"1,305,604,981,272",27060,Millenials
-Republic of Korea,2013,female,55-74 years,1004,4970200,20.2,Republic of Korea2013,,"1,305,604,981,272",27060,Boomers
-Republic of Korea,2013,female,25-34 years,698,3536920,19.73,Republic of Korea2013,,"1,305,604,981,272",27060,Millenials
-Republic of Korea,2013,female,35-54 years,1550,8407766,18.44,Republic of Korea2013,,"1,305,604,981,272",27060,Generation X
-Republic of Korea,2013,male,15-24 years,473,3589652,13.18,Republic of Korea2013,,"1,305,604,981,272",27060,Millenials
-Republic of Korea,2013,female,15-24 years,283,3205797,8.83,Republic of Korea2013,,"1,305,604,981,272",27060,Millenials
-Republic of Korea,2013,male,5-14 years,21,2708467,0.78,Republic of Korea2013,,"1,305,604,981,272",27060,Generation Z
-Republic of Korea,2013,female,5-14 years,16,2502109,0.64,Republic of Korea2013,,"1,305,604,981,272",27060,Generation Z
-Republic of Korea,2014,male,75+ years,1090,875829,124.45,Republic of Korea2014,,"1,411,333,926,201",29120,Silent
-Republic of Korea,2014,male,55-74 years,2952,4819912,61.25,Republic of Korea2014,,"1,411,333,926,201",29120,Boomers
-Republic of Korea,2014,male,35-54 years,4085,8631486,47.33,Republic of Korea2014,,"1,411,333,926,201",29120,Generation X
-Republic of Korea,2014,female,75+ years,721,1627234,44.31,Republic of Korea2014,,"1,411,333,926,201",29120,Silent
-Republic of Korea,2014,male,25-34 years,1133,3662939,30.93,Republic of Korea2014,,"1,411,333,926,201",29120,Millenials
-Republic of Korea,2014,female,25-34 years,643,3460437,18.58,Republic of Korea2014,,"1,411,333,926,201",29120,Millenials
-Republic of Korea,2014,female,55-74 years,961,5173521,18.58,Republic of Korea2014,,"1,411,333,926,201",29120,Boomers
-Republic of Korea,2014,female,35-54 years,1506,8376722,17.98,Republic of Korea2014,,"1,411,333,926,201",29120,Generation X
-Republic of Korea,2014,male,15-24 years,453,3588494,12.62,Republic of Korea2014,,"1,411,333,926,201",29120,Millenials
-Republic of Korea,2014,female,15-24 years,257,3209671,8.01,Republic of Korea2014,,"1,411,333,926,201",29120,Millenials
-Republic of Korea,2014,male,5-14 years,22,2615352,0.84,Republic of Korea2014,,"1,411,333,926,201",29120,Generation Z
-Republic of Korea,2014,female,5-14 years,11,2424320,0.45,Republic of Korea2014,,"1,411,333,926,201",29120,Generation Z
-Republic of Korea,2015,male,75+ years,1329,944284,140.74,Republic of Korea2015,,"1,382,764,027,114",28410,Silent
-Republic of Korea,2015,male,55-74 years,3123,5071921,61.57,Republic of Korea2015,,"1,382,764,027,114",28410,Boomers
-Republic of Korea,2015,female,75+ years,750,1721418,43.57,Republic of Korea2015,,"1,382,764,027,114",28410,Silent
-Republic of Korea,2015,male,35-54 years,3678,8593620,42.8,Republic of Korea2015,,"1,382,764,027,114",28410,Generation X
-Republic of Korea,2015,male,25-34 years,988,3573299,27.65,Republic of Korea2015,,"1,382,764,027,114",28410,Millenials
-Republic of Korea,2015,female,55-74 years,990,5412589,18.29,Republic of Korea2015,,"1,382,764,027,114",28410,Boomers
-Republic of Korea,2015,female,25-34 years,572,3353452,17.06,Republic of Korea2015,,"1,382,764,027,114",28410,Millenials
-Republic of Korea,2015,female,35-54 years,1372,8337331,16.46,Republic of Korea2015,,"1,382,764,027,114",28410,Generation X
-Republic of Korea,2015,male,15-24 years,421,3580725,11.76,Republic of Korea2015,,"1,382,764,027,114",28410,Millenials
-Republic of Korea,2015,female,15-24 years,256,3211732,7.97,Republic of Korea2015,,"1,382,764,027,114",28410,Millenials
-Republic of Korea,2015,male,5-14 years,17,2523952,0.67,Republic of Korea2015,,"1,382,764,027,114",28410,Generation Z
-Republic of Korea,2015,female,5-14 years,14,2347429,0.6,Republic of Korea2015,,"1,382,764,027,114",28410,Generation Z
+"Korea, South",1985,male,75+ years,42,154800,27.13,"Korea, South1985",,"100,273,097,170",2731,G.I. Generation
+"Korea, South",1985,male,55-74 years,393,1498300,26.23,"Korea, South1985",,"100,273,097,170",2731,G.I. Generation
+"Korea, South",1985,male,35-54 years,903,4285700,21.07,"Korea, South1985",,"100,273,097,170",2731,Silent
+"Korea, South",1985,male,25-34 years,655,3616800,18.11,"Korea, South1985",,"100,273,097,170",2731,Boomers
+"Korea, South",1985,male,15-24 years,678,4413000,15.36,"Korea, South1985",,"100,273,097,170",2731,Generation X
+"Korea, South",1985,female,75+ years,38,370700,10.25,"Korea, South1985",,"100,273,097,170",2731,G.I. Generation
+"Korea, South",1985,female,55-74 years,161,2000500,8.05,"Korea, South1985",,"100,273,097,170",2731,G.I. Generation
+"Korea, South",1985,female,15-24 years,296,4148300,7.14,"Korea, South1985",,"100,273,097,170",2731,Generation X
+"Korea, South",1985,female,25-34 years,228,3568800,6.39,"Korea, South1985",,"100,273,097,170",2731,Boomers
+"Korea, South",1985,female,35-54 years,262,4267400,6.14,"Korea, South1985",,"100,273,097,170",2731,Silent
+"Korea, South",1985,male,5-14 years,20,4336000,0.46,"Korea, South1985",,"100,273,097,170",2731,Generation X
+"Korea, South",1985,female,5-14 years,13,4056400,0.32,"Korea, South1985",,"100,273,097,170",2731,Generation X
+"Korea, South",1986,male,75+ years,59,160500,36.76,"Korea, South1986",,"115,537,126,326",3078,G.I. Generation
+"Korea, South",1986,male,55-74 years,377,1555500,24.24,"Korea, South1986",,"115,537,126,326",3078,G.I. Generation
+"Korea, South",1986,male,35-54 years,827,4507500,18.35,"Korea, South1986",,"115,537,126,326",3078,Silent
+"Korea, South",1986,male,25-34 years,671,3832600,17.51,"Korea, South1986",,"115,537,126,326",3078,Boomers
+"Korea, South",1986,male,15-24 years,616,4499600,13.69,"Korea, South1986",,"115,537,126,326",3078,Generation X
+"Korea, South",1986,female,75+ years,30,378000,7.94,"Korea, South1986",,"115,537,126,326",3078,G.I. Generation
+"Korea, South",1986,female,25-34 years,250,3656500,6.84,"Korea, South1986",,"115,537,126,326",3078,Boomers
+"Korea, South",1986,female,55-74 years,129,2039900,6.32,"Korea, South1986",,"115,537,126,326",3078,G.I. Generation
+"Korea, South",1986,female,15-24 years,237,4244400,5.58,"Korea, South1986",,"115,537,126,326",3078,Generation X
+"Korea, South",1986,female,35-54 years,236,4325800,5.46,"Korea, South1986",,"115,537,126,326",3078,Silent
+"Korea, South",1986,male,5-14 years,18,4308100,0.42,"Korea, South1986",,"115,537,126,326",3078,Generation X
+"Korea, South",1986,female,5-14 years,8,4032000,0.2,"Korea, South1986",,"115,537,126,326",3078,Generation X
+"Korea, South",1987,male,75+ years,44,163700,26.88,"Korea, South1987",,"146,133,338,196",3834,G.I. Generation
+"Korea, South",1987,male,55-74 years,380,1607800,23.63,"Korea, South1987",,"146,133,338,196",3834,G.I. Generation
+"Korea, South",1987,male,25-34 years,675,3973800,16.99,"Korea, South1987",,"146,133,338,196",3834,Boomers
+"Korea, South",1987,male,35-54 years,781,4617500,16.91,"Korea, South1987",,"146,133,338,196",3834,Silent
+"Korea, South",1987,male,15-24 years,493,4536200,10.87,"Korea, South1987",,"146,133,338,196",3834,Generation X
+"Korea, South",1987,female,75+ years,30,389400,7.7,"Korea, South1987",,"146,133,338,196",3834,G.I. Generation
+"Korea, South",1987,female,55-74 years,152,2113500,7.19,"Korea, South1987",,"146,133,338,196",3834,G.I. Generation
+"Korea, South",1987,female,25-34 years,254,3813900,6.66,"Korea, South1987",,"146,133,338,196",3834,Boomers
+"Korea, South",1987,female,35-54 years,229,4388200,5.22,"Korea, South1987",,"146,133,338,196",3834,Silent
+"Korea, South",1987,female,15-24 years,221,4265300,5.18,"Korea, South1987",,"146,133,338,196",3834,Generation X
+"Korea, South",1987,male,5-14 years,27,4259100,0.63,"Korea, South1987",,"146,133,338,196",3834,Generation X
+"Korea, South",1987,female,5-14 years,15,3986500,0.38,"Korea, South1987",,"146,133,338,196",3834,Generation X
+"Korea, South",1988,male,75+ years,44,179000,24.58,"Korea, South1988",,"196,964,195,387",5089,G.I. Generation
+"Korea, South",1988,male,55-74 years,281,1684400,16.68,"Korea, South1988",,"196,964,195,387",5089,G.I. Generation
+"Korea, South",1988,male,35-54 years,691,4699000,14.71,"Korea, South1988",,"196,964,195,387",5089,Silent
+"Korea, South",1988,male,25-34 years,575,4136900,13.9,"Korea, South1988",,"196,964,195,387",5089,Boomers
+"Korea, South",1988,female,75+ years,47,412300,11.4,"Korea, South1988",,"196,964,195,387",5089,G.I. Generation
+"Korea, South",1988,male,15-24 years,513,4503000,11.39,"Korea, South1988",,"196,964,195,387",5089,Generation X
+"Korea, South",1988,female,55-74 years,141,2207300,6.39,"Korea, South1988",,"196,964,195,387",5089,G.I. Generation
+"Korea, South",1988,female,25-34 years,206,3966200,5.19,"Korea, South1988",,"196,964,195,387",5089,Boomers
+"Korea, South",1988,female,15-24 years,212,4255900,4.98,"Korea, South1988",,"196,964,195,387",5089,Generation X
+"Korea, South",1988,female,35-54 years,213,4499800,4.73,"Korea, South1988",,"196,964,195,387",5089,Silent
+"Korea, South",1988,male,5-14 years,14,4211600,0.33,"Korea, South1988",,"196,964,195,387",5089,Generation X
+"Korea, South",1988,female,5-14 years,12,3945100,0.3,"Korea, South1988",,"196,964,195,387",5089,Generation X
+"Korea, South",1989,male,75+ years,59,186600,31.62,"Korea, South1989",,"243,526,047,717",6217,G.I. Generation
+"Korea, South",1989,male,55-74 years,314,1763900,17.8,"Korea, South1989",,"243,526,047,717",6217,G.I. Generation
+"Korea, South",1989,male,35-54 years,693,4820500,14.38,"Korea, South1989",,"243,526,047,717",6217,Silent
+"Korea, South",1989,male,25-34 years,574,4239100,13.54,"Korea, South1989",,"243,526,047,717",6217,Boomers
+"Korea, South",1989,female,75+ years,46,429800,10.7,"Korea, South1989",,"243,526,047,717",6217,G.I. Generation
+"Korea, South",1989,male,15-24 years,464,4502500,10.31,"Korea, South1989",,"243,526,047,717",6217,Generation X
+"Korea, South",1989,female,55-74 years,136,2301300,5.91,"Korea, South1989",,"243,526,047,717",6217,G.I. Generation
+"Korea, South",1989,female,25-34 years,233,4069200,5.73,"Korea, South1989",,"243,526,047,717",6217,Boomers
+"Korea, South",1989,female,35-54 years,262,4618800,5.67,"Korea, South1989",,"243,526,047,717",6217,Silent
+"Korea, South",1989,female,15-24 years,207,4256500,4.86,"Korea, South1989",,"243,526,047,717",6217,Generation X
+"Korea, South",1989,male,5-14 years,20,4122100,0.49,"Korea, South1989",,"243,526,047,717",6217,Generation X
+"Korea, South",1989,female,5-14 years,15,3861200,0.39,"Korea, South1989",,"243,526,047,717",6217,Generation X
+"Korea, South",1990,male,75+ years,53,194400,27.26,"Korea, South1990",,"279,349,355,714",7056,G.I. Generation
+"Korea, South",1990,male,55-74 years,352,1859100,18.93,"Korea, South1990",,"279,349,355,714",7056,G.I. Generation
+"Korea, South",1990,male,35-54 years,736,4981300,14.78,"Korea, South1990",,"279,349,355,714",7056,Silent
+"Korea, South",1990,male,25-34 years,550,4270100,12.88,"Korea, South1990",,"279,349,355,714",7056,Boomers
+"Korea, South",1990,female,75+ years,52,450100,11.55,"Korea, South1990",,"279,349,355,714",7056,G.I. Generation
+"Korea, South",1990,male,15-24 years,480,4502200,10.66,"Korea, South1990",,"279,349,355,714",7056,Generation X
+"Korea, South",1990,female,25-34 years,269,4102400,6.56,"Korea, South1990",,"279,349,355,714",7056,Boomers
+"Korea, South",1990,female,55-74 years,153,2400600,6.37,"Korea, South1990",,"279,349,355,714",7056,G.I. Generation
+"Korea, South",1990,female,15-24 years,232,4250500,5.46,"Korea, South1990",,"279,349,355,714",7056,Generation X
+"Korea, South",1990,female,35-54 years,242,4781300,5.06,"Korea, South1990",,"279,349,355,714",7056,Silent
+"Korea, South",1990,male,5-14 years,26,4028200,0.65,"Korea, South1990",,"279,349,355,714",7056,Generation X
+"Korea, South",1990,female,5-14 years,14,3769300,0.37,"Korea, South1990",,"279,349,355,714",7056,Generation X
+"Korea, South",1991,male,75+ years,55,203800,26.99,"Korea, South1991",,"325,734,233,313",8145,G.I. Generation
+"Korea, South",1991,male,55-74 years,331,1948900,16.98,"Korea, South1991",,"325,734,233,313",8145,Silent
+"Korea, South",1991,male,35-54 years,708,5151700,13.74,"Korea, South1991",,"325,734,233,313",8145,Boomers
+"Korea, South",1991,male,25-34 years,568,4281300,13.27,"Korea, South1991",,"325,734,233,313",8145,Boomers
+"Korea, South",1991,female,75+ years,56,469000,11.94,"Korea, South1991",,"325,734,233,313",8145,G.I. Generation
+"Korea, South",1991,male,15-24 years,451,4484500,10.06,"Korea, South1991",,"325,734,233,313",8145,Generation X
+"Korea, South",1991,female,55-74 years,154,2489000,6.19,"Korea, South1991",,"325,734,233,313",8145,Silent
+"Korea, South",1991,female,25-34 years,247,4115000,6,"Korea, South1991",,"325,734,233,313",8145,Boomers
+"Korea, South",1991,female,35-54 years,256,4951200,5.17,"Korea, South1991",,"325,734,233,313",8145,Boomers
+"Korea, South",1991,female,15-24 years,201,4226500,4.76,"Korea, South1991",,"325,734,233,313",8145,Generation X
+"Korea, South",1991,male,5-14 years,26,3973100,0.65,"Korea, South1991",,"325,734,233,313",8145,Millenials
+"Korea, South",1991,female,5-14 years,16,3699700,0.43,"Korea, South1991",,"325,734,233,313",8145,Millenials
+"Korea, South",1992,male,75+ years,56,214000,26.17,"Korea, South1992",,"350,051,111,253",8671,G.I. Generation
+"Korea, South",1992,male,55-74 years,438,2042700,21.44,"Korea, South1992",,"350,051,111,253",8671,Silent
+"Korea, South",1992,male,35-54 years,823,5317000,15.48,"Korea, South1992",,"350,051,111,253",8671,Boomers
+"Korea, South",1992,male,25-34 years,644,4294600,15,"Korea, South1992",,"350,051,111,253",8671,Boomers
+"Korea, South",1992,female,75+ years,60,487200,12.32,"Korea, South1992",,"350,051,111,253",8671,G.I. Generation
+"Korea, South",1992,male,15-24 years,480,4456500,10.77,"Korea, South1992",,"350,051,111,253",8671,Generation X
+"Korea, South",1992,female,55-74 years,182,2578400,7.06,"Korea, South1992",,"350,051,111,253",8671,Silent
+"Korea, South",1992,female,25-34 years,267,4125000,6.47,"Korea, South1992",,"350,051,111,253",8671,Boomers
+"Korea, South",1992,female,35-54 years,312,5119600,6.09,"Korea, South1992",,"350,051,111,253",8671,Boomers
+"Korea, South",1992,female,15-24 years,222,4195700,5.29,"Korea, South1992",,"350,051,111,253",8671,Generation X
+"Korea, South",1992,male,5-14 years,26,3906100,0.67,"Korea, South1992",,"350,051,111,253",8671,Millenials
+"Korea, South",1992,female,5-14 years,23,3634400,0.63,"Korea, South1992",,"350,051,111,253",8671,Millenials
+"Korea, South",1993,male,75+ years,91,221700,41.05,"Korea, South1993",,"386,302,839,274",9479,G.I. Generation
+"Korea, South",1993,male,55-74 years,524,2145400,24.42,"Korea, South1993",,"386,302,839,274",9479,Silent
+"Korea, South",1993,male,35-54 years,1040,5494900,18.93,"Korea, South1993",,"386,302,839,274",9479,Boomers
+"Korea, South",1993,female,75+ years,91,501700,18.14,"Korea, South1993",,"386,302,839,274",9479,G.I. Generation
+"Korea, South",1993,male,25-34 years,646,4306500,15,"Korea, South1993",,"386,302,839,274",9479,Boomers
+"Korea, South",1993,male,15-24 years,522,4405500,11.85,"Korea, South1993",,"386,302,839,274",9479,Generation X
+"Korea, South",1993,female,25-34 years,322,4131600,7.79,"Korea, South1993",,"386,302,839,274",9479,Boomers
+"Korea, South",1993,female,55-74 years,207,2673200,7.74,"Korea, South1993",,"386,302,839,274",9479,Silent
+"Korea, South",1993,female,35-54 years,381,5301200,7.19,"Korea, South1993",,"386,302,839,274",9479,Boomers
+"Korea, South",1993,female,15-24 years,253,4146800,6.1,"Korea, South1993",,"386,302,839,274",9479,Generation X
+"Korea, South",1993,male,5-14 years,25,3855600,0.65,"Korea, South1993",,"386,302,839,274",9479,Millenials
+"Korea, South",1993,female,5-14 years,22,3570700,0.62,"Korea, South1993",,"386,302,839,274",9479,Millenials
+"Korea, South",1994,male,75+ years,105,227600,46.13,"Korea, South1994",,"455,602,962,225",11073,G.I. Generation
+"Korea, South",1994,male,55-74 years,546,2249100,24.28,"Korea, South1994",,"455,602,962,225",11073,Silent
+"Korea, South",1994,female,75+ years,93,512500,18.15,"Korea, South1994",,"455,602,962,225",11073,G.I. Generation
+"Korea, South",1994,male,35-54 years,1025,5690100,18.01,"Korea, South1994",,"455,602,962,225",11073,Boomers
+"Korea, South",1994,male,25-34 years,681,4326600,15.74,"Korea, South1994",,"455,602,962,225",11073,Boomers
+"Korea, South",1994,male,15-24 years,479,4353800,11,"Korea, South1994",,"455,602,962,225",11073,Generation X
+"Korea, South",1994,female,55-74 years,264,2774600,9.51,"Korea, South1994",,"455,602,962,225",11073,Silent
+"Korea, South",1994,female,25-34 years,337,4144000,8.13,"Korea, South1994",,"455,602,962,225",11073,Boomers
+"Korea, South",1994,female,35-54 years,383,5495100,6.97,"Korea, South1994",,"455,602,962,225",11073,Boomers
+"Korea, South",1994,female,15-24 years,243,4098900,5.93,"Korea, South1994",,"455,602,962,225",11073,Generation X
+"Korea, South",1994,female,5-14 years,30,3485300,0.86,"Korea, South1994",,"455,602,962,225",11073,Millenials
+"Korea, South",1994,male,5-14 years,26,3787700,0.69,"Korea, South1994",,"455,602,962,225",11073,Millenials
+"Korea, South",1995,male,75+ years,126,265000,47.55,"Korea, South1995",,"556,130,926,913",13217,G.I. Generation
+"Korea, South",1995,male,55-74 years,638,2212100,28.84,"Korea, South1995",,"556,130,926,913",13217,Silent
+"Korea, South",1995,male,35-54 years,1265,5928800,21.34,"Korea, South1995",,"556,130,926,913",13217,Boomers
+"Korea, South",1995,female,75+ years,112,593200,18.88,"Korea, South1995",,"556,130,926,913",13217,G.I. Generation
+"Korea, South",1995,male,25-34 years,759,4627000,16.4,"Korea, South1995",,"556,130,926,913",13217,Generation X
+"Korea, South",1995,male,15-24 years,501,4349400,11.52,"Korea, South1995",,"556,130,926,913",13217,Generation X
+"Korea, South",1995,female,55-74 years,281,2860400,9.82,"Korea, South1995",,"556,130,926,913",13217,Silent
+"Korea, South",1995,female,25-34 years,373,4375500,8.52,"Korea, South1995",,"556,130,926,913",13217,Generation X
+"Korea, South",1995,female,35-54 years,427,5725200,7.46,"Korea, South1995",,"556,130,926,913",13217,Boomers
+"Korea, South",1995,female,15-24 years,301,4120600,7.3,"Korea, South1995",,"556,130,926,913",13217,Generation X
+"Korea, South",1995,female,5-14 years,28,3367300,0.83,"Korea, South1995",,"556,130,926,913",13217,Millenials
+"Korea, South",1995,male,5-14 years,30,3651900,0.82,"Korea, South1995",,"556,130,926,913",13217,Millenials
+"Korea, South",1996,male,75+ years,166,279100,59.48,"Korea, South1996",,"598,099,073,901",14071,G.I. Generation
+"Korea, South",1996,male,55-74 years,796,2313200,34.41,"Korea, South1996",,"598,099,073,901",14071,Silent
+"Korea, South",1996,male,35-54 years,1533,6178700,24.81,"Korea, South1996",,"598,099,073,901",14071,Boomers
+"Korea, South",1996,female,75+ years,150,616700,24.32,"Korea, South1996",,"598,099,073,901",14071,G.I. Generation
+"Korea, South",1996,male,25-34 years,893,4615200,19.35,"Korea, South1996",,"598,099,073,901",14071,Generation X
+"Korea, South",1996,male,15-24 years,619,4291000,14.43,"Korea, South1996",,"598,099,073,901",14071,Generation X
+"Korea, South",1996,female,55-74 years,314,2965200,10.59,"Korea, South1996",,"598,099,073,901",14071,Silent
+"Korea, South",1996,female,25-34 years,408,4363000,9.35,"Korea, South1996",,"598,099,073,901",14071,Generation X
+"Korea, South",1996,female,15-24 years,367,4070800,9.02,"Korea, South1996",,"598,099,073,901",14071,Generation X
+"Korea, South",1996,female,35-54 years,532,5968300,8.91,"Korea, South1996",,"598,099,073,901",14071,Boomers
+"Korea, South",1996,female,5-14 years,44,3272200,1.34,"Korea, South1996",,"598,099,073,901",14071,Millenials
+"Korea, South",1996,male,5-14 years,35,3573700,0.98,"Korea, South1996",,"598,099,073,901",14071,Millenials
+"Korea, South",1997,male,75+ years,198,296400,66.8,"Korea, South1997",,"557,503,074,772",12978,G.I. Generation
+"Korea, South",1997,male,55-74 years,868,2438200,35.6,"Korea, South1997",,"557,503,074,772",12978,Silent
+"Korea, South",1997,female,75+ years,173,647600,26.71,"Korea, South1997",,"557,503,074,772",12978,G.I. Generation
+"Korea, South",1997,male,35-54 years,1656,6387700,25.92,"Korea, South1997",,"557,503,074,772",12978,Boomers
+"Korea, South",1997,male,25-34 years,881,4602700,19.14,"Korea, South1997",,"557,503,074,772",12978,Generation X
+"Korea, South",1997,male,15-24 years,528,4231500,12.48,"Korea, South1997",,"557,503,074,772",12978,Generation X
+"Korea, South",1997,female,55-74 years,341,3087800,11.04,"Korea, South1997",,"557,503,074,772",12978,Silent
+"Korea, South",1997,female,25-34 years,458,4358400,10.51,"Korea, South1997",,"557,503,074,772",12978,Generation X
+"Korea, South",1997,female,35-54 years,535,6163400,8.68,"Korea, South1997",,"557,503,074,772",12978,Boomers
+"Korea, South",1997,female,15-24 years,321,4021600,7.98,"Korea, South1997",,"557,503,074,772",12978,Generation X
+"Korea, South",1997,female,5-14 years,34,3201300,1.06,"Korea, South1997",,"557,503,074,772",12978,Millenials
+"Korea, South",1997,male,5-14 years,31,3519500,0.88,"Korea, South1997",,"557,503,074,772",12978,Millenials
+"Korea, South",1998,male,75+ years,258,316200,81.59,"Korea, South1998",,"374,241,351,752",8624,G.I. Generation
+"Korea, South",1998,male,55-74 years,1398,2550700,54.81,"Korea, South1998",,"374,241,351,752",8624,Silent
+"Korea, South",1998,male,35-54 years,2644,6568200,40.25,"Korea, South1998",,"374,241,351,752",8624,Boomers
+"Korea, South",1998,female,75+ years,230,684600,33.6,"Korea, South1998",,"374,241,351,752",8624,G.I. Generation
+"Korea, South",1998,male,25-34 years,1240,4604300,26.93,"Korea, South1998",,"374,241,351,752",8624,Generation X
+"Korea, South",1998,male,15-24 years,629,4166000,15.1,"Korea, South1998",,"374,241,351,752",8624,Generation X
+"Korea, South",1998,female,55-74 years,479,3195400,14.99,"Korea, South1998",,"374,241,351,752",8624,Silent
+"Korea, South",1998,female,25-34 years,533,4381500,12.16,"Korea, South1998",,"374,241,351,752",8624,Generation X
+"Korea, South",1998,female,35-54 years,714,6323400,11.29,"Korea, South1998",,"374,241,351,752",8624,Boomers
+"Korea, South",1998,female,15-24 years,371,3956800,9.38,"Korea, South1998",,"374,241,351,752",8624,Generation X
+"Korea, South",1998,female,5-14 years,42,3153700,1.33,"Korea, South1998",,"374,241,351,752",8624,Millenials
+"Korea, South",1998,male,5-14 years,31,3494900,0.89,"Korea, South1998",,"374,241,351,752",8624,Millenials
+"Korea, South",1999,male,75+ years,252,332800,75.72,"Korea, South1999",,"485,248,229,337",11074,G.I. Generation
+"Korea, South",1999,male,55-74 years,1201,2634700,45.58,"Korea, South1999",,"485,248,229,337",11074,Silent
+"Korea, South",1999,male,35-54 years,2087,6758500,30.88,"Korea, South1999",,"485,248,229,337",11074,Boomers
+"Korea, South",1999,female,75+ years,213,712800,29.88,"Korea, South1999",,"485,248,229,337",11074,G.I. Generation
+"Korea, South",1999,male,25-34 years,901,4611200,19.54,"Korea, South1999",,"485,248,229,337",11074,Generation X
+"Korea, South",1999,female,55-74 years,464,3280700,14.14,"Korea, South1999",,"485,248,229,337",11074,Silent
+"Korea, South",1999,male,15-24 years,496,4071500,12.18,"Korea, South1999",,"485,248,229,337",11074,Generation X
+"Korea, South",1999,female,35-54 years,683,6497300,10.51,"Korea, South1999",,"485,248,229,337",11074,Boomers
+"Korea, South",1999,female,25-34 years,411,4405400,9.33,"Korea, South1999",,"485,248,229,337",11074,Generation X
+"Korea, South",1999,female,15-24 years,306,3859400,7.93,"Korea, South1999",,"485,248,229,337",11074,Generation X
+"Korea, South",1999,female,5-14 years,30,3143200,0.95,"Korea, South1999",,"485,248,229,337",11074,Millenials
+"Korea, South",1999,male,5-14 years,31,3509800,0.88,"Korea, South1999",,"485,248,229,337",11074,Millenials
+"Korea, South",2000,male,75+ years,282,346040,81.49,"Korea, South2000",,"561,633,125,840",12686,G.I. Generation
+"Korea, South",2000,male,55-74 years,1133,2714103,41.74,"Korea, South2000",,"561,633,125,840",12686,Silent
+"Korea, South",2000,female,75+ years,238,737452,32.27,"Korea, South2000",,"561,633,125,840",12686,G.I. Generation
+"Korea, South",2000,male,35-54 years,1890,6980476,27.08,"Korea, South2000",,"561,633,125,840",12686,Boomers
+"Korea, South",2000,male,25-34 years,748,4584802,16.31,"Korea, South2000",,"561,633,125,840",12686,Generation X
+"Korea, South",2000,female,55-74 years,481,3355684,14.33,"Korea, South2000",,"561,633,125,840",12686,Silent
+"Korea, South",2000,male,15-24 years,408,3982626,10.24,"Korea, South2000",,"561,633,125,840",12686,Generation X
+"Korea, South",2000,female,35-54 years,616,6714173,9.17,"Korea, South2000",,"561,633,125,840",12686,Boomers
+"Korea, South",2000,female,25-34 years,353,4386309,8.05,"Korea, South2000",,"561,633,125,840",12686,Generation X
+"Korea, South",2000,female,15-24 years,265,3767475,7.03,"Korea, South2000",,"561,633,125,840",12686,Generation X
+"Korea, South",2000,male,5-14 years,20,3544949,0.56,"Korea, South2000",,"561,633,125,840",12686,Millenials
+"Korea, South",2000,female,5-14 years,10,3157654,0.32,"Korea, South2000",,"561,633,125,840",12686,Millenials
+"Korea, South",2001,male,75+ years,328,359104,91.34,"Korea, South2001",,"533,052,076,314",11922,Silent
+"Korea, South",2001,male,55-74 years,1331,2796018,47.6,"Korea, South2001",,"533,052,076,314",11922,Silent
+"Korea, South",2001,female,75+ years,306,766768,39.91,"Korea, South2001",,"533,052,076,314",11922,Silent
+"Korea, South",2001,male,35-54 years,1989,7195715,27.64,"Korea, South2001",,"533,052,076,314",11922,Boomers
+"Korea, South",2001,male,25-34 years,835,4535491,18.41,"Korea, South2001",,"533,052,076,314",11922,Generation X
+"Korea, South",2001,female,55-74 years,520,3424102,15.19,"Korea, South2001",,"533,052,076,314",11922,Silent
+"Korea, South",2001,female,35-54 years,640,6918865,9.25,"Korea, South2001",,"533,052,076,314",11922,Boomers
+"Korea, South",2001,male,15-24 years,356,3912425,9.1,"Korea, South2001",,"533,052,076,314",11922,Millenials
+"Korea, South",2001,female,25-34 years,344,4355767,7.9,"Korea, South2001",,"533,052,076,314",11922,Generation X
+"Korea, South",2001,female,15-24 years,228,3688341,6.18,"Korea, South2001",,"533,052,076,314",11922,Millenials
+"Korea, South",2001,female,5-14 years,21,3180198,0.66,"Korea, South2001",,"533,052,076,314",11922,Millenials
+"Korea, South",2001,male,5-14 years,13,3578071,0.36,"Korea, South2001",,"533,052,076,314",11922,Millenials
+"Korea, South",2002,male,75+ years,489,374816,130.46,"Korea, South2002",,"609,020,054,512",13501,Silent
+"Korea, South",2002,female,75+ years,491,801199,61.28,"Korea, South2002",,"609,020,054,512",13501,Silent
+"Korea, South",2002,male,55-74 years,1648,2906720,56.7,"Korea, South2002",,"609,020,054,512",13501,Silent
+"Korea, South",2002,male,35-54 years,2444,7370094,33.16,"Korea, South2002",,"609,020,054,512",13501,Boomers
+"Korea, South",2002,male,25-34 years,970,4480596,21.65,"Korea, South2002",,"609,020,054,512",13501,Generation X
+"Korea, South",2002,female,55-74 years,664,3519055,18.87,"Korea, South2002",,"609,020,054,512",13501,Silent
+"Korea, South",2002,female,35-54 years,845,7092799,11.91,"Korea, South2002",,"609,020,054,512",13501,Boomers
+"Korea, South",2002,male,15-24 years,374,3836446,9.75,"Korea, South2002",,"609,020,054,512",13501,Millenials
+"Korea, South",2002,female,25-34 years,401,4314215,9.29,"Korea, South2002",,"609,020,054,512",13501,Generation X
+"Korea, South",2002,female,15-24 years,254,3602297,7.05,"Korea, South2002",,"609,020,054,512",13501,Millenials
+"Korea, South",2002,female,5-14 years,17,3205108,0.53,"Korea, South2002",,"609,020,054,512",13501,Millenials
+"Korea, South",2002,male,5-14 years,14,3606696,0.39,"Korea, South2002",,"609,020,054,512",13501,Millenials
+"Korea, South",2003,male,75+ years,674,394465,170.86,"Korea, South2003",,"680,520,724,062",14971,Silent
+"Korea, South",2003,male,55-74 years,2239,3032808,73.83,"Korea, South2003",,"680,520,724,062",14971,Silent
+"Korea, South",2003,female,75+ years,601,843447,71.26,"Korea, South2003",,"680,520,724,062",14971,Silent
+"Korea, South",2003,male,35-54 years,3005,7532153,39.9,"Korea, South2003",,"680,520,724,062",14971,Boomers
+"Korea, South",2003,male,25-34 years,1086,4394597,24.71,"Korea, South2003",,"680,520,724,062",14971,Generation X
+"Korea, South",2003,female,55-74 years,855,3624827,23.59,"Korea, South2003",,"680,520,724,062",14971,Silent
+"Korea, South",2003,female,35-54 years,1091,7273425,15,"Korea, South2003",,"680,520,724,062",14971,Boomers
+"Korea, South",2003,male,15-24 years,495,3769703,13.13,"Korea, South2003",,"680,520,724,062",14971,Millenials
+"Korea, South",2003,female,25-34 years,503,4221700,11.91,"Korea, South2003",,"680,520,724,062",14971,Generation X
+"Korea, South",2003,female,15-24 years,316,3526768,8.96,"Korea, South2003",,"680,520,724,062",14971,Millenials
+"Korea, South",2003,female,5-14 years,18,3221172,0.56,"Korea, South2003",,"680,520,724,062",14971,Millenials
+"Korea, South",2003,male,5-14 years,15,3620823,0.41,"Korea, South2003",,"680,520,724,062",14971,Millenials
+"Korea, South",2004,male,75+ years,722,417832,172.8,"Korea, South2004",,"764,880,644,711",16708,Silent
+"Korea, South",2004,male,55-74 years,2574,3153226,81.63,"Korea, South2004",,"764,880,644,711",16708,Silent
+"Korea, South",2004,female,75+ years,695,890935,78.01,"Korea, South2004",,"764,880,644,711",16708,Silent
+"Korea, South",2004,male,35-54 years,3227,7713408,41.84,"Korea, South2004",,"764,880,644,711",16708,Boomers
+"Korea, South",2004,female,55-74 years,969,3722261,26.03,"Korea, South2004",,"764,880,644,711",16708,Silent
+"Korea, South",2004,male,25-34 years,912,4306280,21.18,"Korea, South2004",,"764,880,644,711",16708,Generation X
+"Korea, South",2004,female,35-54 years,1154,7465643,15.46,"Korea, South2004",,"764,880,644,711",16708,Boomers
+"Korea, South",2004,female,25-34 years,496,4130154,12.01,"Korea, South2004",,"764,880,644,711",16708,Generation X
+"Korea, South",2004,male,15-24 years,423,3697288,11.44,"Korea, South2004",,"764,880,644,711",16708,Millenials
+"Korea, South",2004,female,15-24 years,277,3443539,8.04,"Korea, South2004",,"764,880,644,711",16708,Millenials
+"Korea, South",2004,female,5-14 years,22,3222667,0.68,"Korea, South2004",,"764,880,644,711",16708,Millenials
+"Korea, South",2004,male,5-14 years,21,3616737,0.58,"Korea, South2004",,"764,880,644,711",16708,Millenials
+"Korea, South",2005,male,75+ years,780,442349,176.33,"Korea, South2005",,"898,137,194,716",19460,Silent
+"Korea, South",2005,male,55-74 years,2680,3271489,81.92,"Korea, South2005",,"898,137,194,716",19460,Silent
+"Korea, South",2005,female,75+ years,700,942895,74.24,"Korea, South2005",,"898,137,194,716",19460,Silent
+"Korea, South",2005,male,35-54 years,3109,7909318,39.31,"Korea, South2005",,"898,137,194,716",19460,Boomers
+"Korea, South",2005,female,55-74 years,986,3815878,25.84,"Korea, South2005",,"898,137,194,716",19460,Silent
+"Korea, South",2005,male,25-34 years,1010,4254877,23.74,"Korea, South2005",,"898,137,194,716",19460,Generation X
+"Korea, South",2005,female,25-34 years,679,4080577,16.64,"Korea, South2005",,"898,137,194,716",19460,Generation X
+"Korea, South",2005,female,35-54 years,1179,7663628,15.38,"Korea, South2005",,"898,137,194,716",19460,Boomers
+"Korea, South",2005,female,15-24 years,421,3334069,12.63,"Korea, South2005",,"898,137,194,716",19460,Millenials
+"Korea, South",2005,male,15-24 years,426,3606285,11.81,"Korea, South2005",,"898,137,194,716",19460,Millenials
+"Korea, South",2005,female,5-14 years,20,3223612,0.62,"Korea, South2005",,"898,137,194,716",19460,Millenials
+"Korea, South",2005,male,5-14 years,21,3606907,0.58,"Korea, South2005",,"898,137,194,716",19460,Millenials
+"Korea, South",2006,male,75+ years,722,466922,154.63,"Korea, South2006",,"1,011,797,457,139",21753,Silent
+"Korea, South",2006,male,55-74 years,2506,3379258,74.16,"Korea, South2006",,"1,011,797,457,139",21753,Silent
+"Korea, South",2006,female,75+ years,700,995303,70.33,"Korea, South2006",,"1,011,797,457,139",21753,Silent
+"Korea, South",2006,male,35-54 years,2878,8129944,35.4,"Korea, South2006",,"1,011,797,457,139",21753,Boomers
+"Korea, South",2006,female,55-74 years,895,3899641,22.95,"Korea, South2006",,"1,011,797,457,139",21753,Silent
+"Korea, South",2006,male,25-34 years,764,4206010,18.16,"Korea, South2006",,"1,011,797,457,139",21753,Generation X
+"Korea, South",2006,female,35-54 years,1036,7878811,13.15,"Korea, South2006",,"1,011,797,457,139",21753,Boomers
+"Korea, South",2006,female,25-34 years,490,4032326,12.15,"Korea, South2006",,"1,011,797,457,139",21753,Generation X
+"Korea, South",2006,male,15-24 years,342,3529544,9.69,"Korea, South2006",,"1,011,797,457,139",21753,Millenials
+"Korea, South",2006,female,15-24 years,285,3240878,8.79,"Korea, South2006",,"1,011,797,457,139",21753,Millenials
+"Korea, South",2006,female,5-14 years,20,3194081,0.63,"Korea, South2006",,"1,011,797,457,139",21753,Millenials
+"Korea, South",2006,male,5-14 years,15,3561246,0.42,"Korea, South2006",,"1,011,797,457,139",21753,Millenials
+"Korea, South",2007,male,75+ years,860,497517,172.86,"Korea, South2007",,"1,122,679,154,632",23982,Silent
+"Korea, South",2007,male,55-74 years,2553,3510578,72.72,"Korea, South2007",,"1,122,679,154,632",23982,Silent
+"Korea, South",2007,female,75+ years,743,1052764,70.58,"Korea, South2007",,"1,122,679,154,632",23982,Silent
+"Korea, South",2007,male,35-54 years,2902,8320051,34.88,"Korea, South2007",,"1,122,679,154,632",23982,Boomers
+"Korea, South",2007,female,55-74 years,984,4009684,24.54,"Korea, South2007",,"1,122,679,154,632",23982,Silent
+"Korea, South",2007,male,25-34 years,997,4158963,23.97,"Korea, South2007",,"1,122,679,154,632",23982,Generation X
+"Korea, South",2007,female,25-34 years,908,3988315,22.77,"Korea, South2007",,"1,122,679,154,632",23982,Generation X
+"Korea, South",2007,female,35-54 years,1297,8058659,16.09,"Korea, South2007",,"1,122,679,154,632",23982,Boomers
+"Korea, South",2007,female,15-24 years,467,3173279,14.72,"Korea, South2007",,"1,122,679,154,632",23982,Millenials
+"Korea, South",2007,male,15-24 years,410,3478791,11.79,"Korea, South2007",,"1,122,679,154,632",23982,Millenials
+"Korea, South",2007,female,5-14 years,28,3108585,0.9,"Korea, South2007",,"1,122,679,154,632",23982,Generation Z
+"Korea, South",2007,male,5-14 years,25,3457021,0.72,"Korea, South2007",,"1,122,679,154,632",23982,Generation Z
+"Korea, South",2008,male,75+ years,828,534462,154.92,"Korea, South2008",,"1,002,219,052,968",21278,Silent
+"Korea, South",2008,male,55-74 years,2686,3658864,73.41,"Korea, South2008",,"1,002,219,052,968",21278,Silent
+"Korea, South",2008,female,75+ years,755,1118039,67.53,"Korea, South2008",,"1,002,219,052,968",21278,Silent
+"Korea, South",2008,male,35-54 years,3265,8479364,38.51,"Korea, South2008",,"1,002,219,052,968",21278,Boomers
+"Korea, South",2008,female,25-34 years,943,3931977,23.98,"Korea, South2008",,"1,002,219,052,968",21278,Generation X
+"Korea, South",2008,male,25-34 years,977,4106089,23.79,"Korea, South2008",,"1,002,219,052,968",21278,Generation X
+"Korea, South",2008,female,55-74 years,964,4138869,23.29,"Korea, South2008",,"1,002,219,052,968",21278,Silent
+"Korea, South",2008,female,35-54 years,1500,8209985,18.27,"Korea, South2008",,"1,002,219,052,968",21278,Boomers
+"Korea, South",2008,male,15-24 years,481,3456651,13.92,"Korea, South2008",,"1,002,219,052,968",21278,Millenials
+"Korea, South",2008,female,15-24 years,410,3128527,13.11,"Korea, South2008",,"1,002,219,052,968",21278,Millenials
+"Korea, South",2008,female,5-14 years,26,3008336,0.86,"Korea, South2008",,"1,002,219,052,968",21278,Generation Z
+"Korea, South",2008,male,5-14 years,23,3330584,0.69,"Korea, South2008",,"1,002,219,052,968",21278,Generation Z
+"Korea, South",2009,male,75+ years,1006,578635,173.86,"Korea, South2009",,"901,934,953,365",19036,Silent
+"Korea, South",2009,male,55-74 years,3025,3806592,79.47,"Korea, South2009",,"901,934,953,365",19036,Silent
+"Korea, South",2009,female,75+ years,920,1191463,77.22,"Korea, South2009",,"901,934,953,365",19036,Silent
+"Korea, South",2009,male,35-54 years,4048,8621339,46.95,"Korea, South2009",,"901,934,953,365",19036,Boomers
+"Korea, South",2009,male,25-34 years,1260,4022361,31.32,"Korea, South2009",,"901,934,953,365",19036,Generation X
+"Korea, South",2009,female,25-34 years,1121,3844207,29.16,"Korea, South2009",,"901,934,953,365",19036,Generation X
+"Korea, South",2009,female,55-74 years,1152,4264449,27.01,"Korea, South2009",,"901,934,953,365",19036,Silent
+"Korea, South",2009,female,35-54 years,1780,8350429,21.32,"Korea, South2009",,"901,934,953,365",19036,Boomers
+"Korea, South",2009,male,15-24 years,549,3472834,15.81,"Korea, South2009",,"901,934,953,365",19036,Millenials
+"Korea, South",2009,female,15-24 years,460,3120462,14.74,"Korea, South2009",,"901,934,953,365",19036,Millenials
+"Korea, South",2009,female,5-14 years,42,2908040,1.44,"Korea, South2009",,"901,934,953,365",19036,Generation Z
+"Korea, South",2009,male,5-14 years,39,3199206,1.22,"Korea, South2009",,"901,934,953,365",19036,Generation Z
+"Korea, South",2010,male,75+ years,1152,631853,182.32,"Korea, South2010",,"1,094,499,338,703",22994,Silent
+"Korea, South",2010,male,55-74 years,3298,3986626,82.73,"Korea, South2010",,"1,094,499,338,703",22994,Silent
+"Korea, South",2010,female,75+ years,914,1275018,71.69,"Korea, South2010",,"1,094,499,338,703",22994,Silent
+"Korea, South",2010,male,35-54 years,4050,8681362,46.65,"Korea, South2010",,"1,094,499,338,703",22994,Generation X
+"Korea, South",2010,male,25-34 years,1301,3936496,33.05,"Korea, South2010",,"1,094,499,338,703",22994,Generation X
+"Korea, South",2010,female,55-74 years,1200,4424476,27.12,"Korea, South2010",,"1,094,499,338,703",22994,Silent
+"Korea, South",2010,female,25-34 years,972,3756347,25.88,"Korea, South2010",,"1,094,499,338,703",22994,Generation X
+"Korea, South",2010,female,35-54 years,1745,8411310,20.75,"Korea, South2010",,"1,094,499,338,703",22994,Generation X
+"Korea, South",2010,male,15-24 years,493,3509674,14.05,"Korea, South2010",,"1,094,499,338,703",22994,Millenials
+"Korea, South",2010,female,15-24 years,372,3137470,11.86,"Korea, South2010",,"1,094,499,338,703",22994,Millenials
+"Korea, South",2010,female,5-14 years,34,2793259,1.22,"Korea, South2010",,"1,094,499,338,703",22994,Generation Z
+"Korea, South",2010,male,5-14 years,27,3054724,0.88,"Korea, South2010",,"1,094,499,338,703",22994,Generation Z
+"Korea, South",2011,male,75+ years,1276,688365,185.37,"Korea, South2011",,"1,202,463,682,634",25157,Silent
+"Korea, South",2011,male,55-74 years,3393,4177826,81.21,"Korea, South2011",,"1,202,463,682,634",25157,Boomers
+"Korea, South",2011,female,75+ years,894,1360809,65.7,"Korea, South2011",,"1,202,463,682,634",25157,Silent
+"Korea, South",2011,male,35-54 years,4255,8696946,48.93,"Korea, South2011",,"1,202,463,682,634",25157,Generation X
+"Korea, South",2011,male,25-34 years,1384,3868804,35.77,"Korea, South2011",,"1,202,463,682,634",25157,Millenials
+"Korea, South",2011,female,55-74 years,1178,4598818,25.62,"Korea, South2011",,"1,202,463,682,634",25157,Boomers
+"Korea, South",2011,female,25-34 years,901,3682791,24.47,"Korea, South2011",,"1,202,463,682,634",25157,Millenials
+"Korea, South",2011,female,35-54 years,1694,8426582,20.1,"Korea, South2011",,"1,202,463,682,634",25157,Generation X
+"Korea, South",2011,male,15-24 years,528,3543608,14.9,"Korea, South2011",,"1,202,463,682,634",25157,Millenials
+"Korea, South",2011,female,15-24 years,347,3161440,10.98,"Korea, South2011",,"1,202,463,682,634",25157,Millenials
+"Korea, South",2011,male,5-14 years,30,2914466,1.03,"Korea, South2011",,"1,202,463,682,634",25157,Generation Z
+"Korea, South",2011,female,5-14 years,26,2677562,0.97,"Korea, South2011",,"1,202,463,682,634",25157,Generation Z
+"Korea, South",2012,male,75+ years,1137,745816,152.45,"Korea, South2012",,"1,222,807,284,485",25464,Silent
+"Korea, South",2012,male,55-74 years,3039,4379584,69.39,"Korea, South2012",,"1,222,807,284,485",25464,Boomers
+"Korea, South",2012,female,75+ years,887,1444622,61.4,"Korea, South2012",,"1,222,807,284,485",25464,Silent
+"Korea, South",2012,male,35-54 years,3732,8693747,42.93,"Korea, South2012",,"1,222,807,284,485",25464,Generation X
+"Korea, South",2012,male,25-34 years,1210,3795994,31.88,"Korea, South2012",,"1,222,807,284,485",25464,Millenials
+"Korea, South",2012,female,55-74 years,1060,4778393,22.18,"Korea, South2012",,"1,222,807,284,485",25464,Boomers
+"Korea, South",2012,female,25-34 years,733,3604570,20.34,"Korea, South2012",,"1,222,807,284,485",25464,Millenials
+"Korea, South",2012,female,35-54 years,1539,8431939,18.25,"Korea, South2012",,"1,222,807,284,485",25464,Generation X
+"Korea, South",2012,male,15-24 years,475,3573502,13.29,"Korea, South2012",,"1,222,807,284,485",25464,Millenials
+"Korea, South",2012,female,15-24 years,299,3188031,9.38,"Korea, South2012",,"1,222,807,284,485",25464,Millenials
+"Korea, South",2012,male,5-14 years,28,2802575,1,"Korea, South2012",,"1,222,807,284,485",25464,Generation Z
+"Korea, South",2012,female,5-14 years,20,2582212,0.77,"Korea, South2012",,"1,222,807,284,485",25464,Generation Z
+"Korea, South",2013,male,75+ years,1191,806960,147.59,"Korea, South2013",,"1,305,604,981,272",27060,Silent
+"Korea, South",2013,male,55-74 years,3136,4595358,68.24,"Korea, South2013",,"1,305,604,981,272",27060,Boomers
+"Korea, South",2013,female,75+ years,816,1531049,53.3,"Korea, South2013",,"1,305,604,981,272",27060,Silent
+"Korea, South",2013,male,35-54 years,4112,8662051,47.47,"Korea, South2013",,"1,305,604,981,272",27060,Generation X
+"Korea, South",2013,male,25-34 years,1126,3731895,30.17,"Korea, South2013",,"1,305,604,981,272",27060,Millenials
+"Korea, South",2013,female,55-74 years,1004,4970200,20.2,"Korea, South2013",,"1,305,604,981,272",27060,Boomers
+"Korea, South",2013,female,25-34 years,698,3536920,19.73,"Korea, South2013",,"1,305,604,981,272",27060,Millenials
+"Korea, South",2013,female,35-54 years,1550,8407766,18.44,"Korea, South2013",,"1,305,604,981,272",27060,Generation X
+"Korea, South",2013,male,15-24 years,473,3589652,13.18,"Korea, South2013",,"1,305,604,981,272",27060,Millenials
+"Korea, South",2013,female,15-24 years,283,3205797,8.83,"Korea, South2013",,"1,305,604,981,272",27060,Millenials
+"Korea, South",2013,male,5-14 years,21,2708467,0.78,"Korea, South2013",,"1,305,604,981,272",27060,Generation Z
+"Korea, South",2013,female,5-14 years,16,2502109,0.64,"Korea, South2013",,"1,305,604,981,272",27060,Generation Z
+"Korea, South",2014,male,75+ years,1090,875829,124.45,"Korea, South2014",,"1,411,333,926,201",29120,Silent
+"Korea, South",2014,male,55-74 years,2952,4819912,61.25,"Korea, South2014",,"1,411,333,926,201",29120,Boomers
+"Korea, South",2014,male,35-54 years,4085,8631486,47.33,"Korea, South2014",,"1,411,333,926,201",29120,Generation X
+"Korea, South",2014,female,75+ years,721,1627234,44.31,"Korea, South2014",,"1,411,333,926,201",29120,Silent
+"Korea, South",2014,male,25-34 years,1133,3662939,30.93,"Korea, South2014",,"1,411,333,926,201",29120,Millenials
+"Korea, South",2014,female,25-34 years,643,3460437,18.58,"Korea, South2014",,"1,411,333,926,201",29120,Millenials
+"Korea, South",2014,female,55-74 years,961,5173521,18.58,"Korea, South2014",,"1,411,333,926,201",29120,Boomers
+"Korea, South",2014,female,35-54 years,1506,8376722,17.98,"Korea, South2014",,"1,411,333,926,201",29120,Generation X
+"Korea, South",2014,male,15-24 years,453,3588494,12.62,"Korea, South2014",,"1,411,333,926,201",29120,Millenials
+"Korea, South",2014,female,15-24 years,257,3209671,8.01,"Korea, South2014",,"1,411,333,926,201",29120,Millenials
+"Korea, South",2014,male,5-14 years,22,2615352,0.84,"Korea, South2014",,"1,411,333,926,201",29120,Generation Z
+"Korea, South",2014,female,5-14 years,11,2424320,0.45,"Korea, South2014",,"1,411,333,926,201",29120,Generation Z
+"Korea, South",2015,male,75+ years,1329,944284,140.74,"Korea, South2015",,"1,382,764,027,114",28410,Silent
+"Korea, South",2015,male,55-74 years,3123,5071921,61.57,"Korea, South2015",,"1,382,764,027,114",28410,Boomers
+"Korea, South",2015,female,75+ years,750,1721418,43.57,"Korea, South2015",,"1,382,764,027,114",28410,Silent
+"Korea, South",2015,male,35-54 years,3678,8593620,42.8,"Korea, South2015",,"1,382,764,027,114",28410,Generation X
+"Korea, South",2015,male,25-34 years,988,3573299,27.65,"Korea, South2015",,"1,382,764,027,114",28410,Millenials
+"Korea, South",2015,female,55-74 years,990,5412589,18.29,"Korea, South2015",,"1,382,764,027,114",28410,Boomers
+"Korea, South",2015,female,25-34 years,572,3353452,17.06,"Korea, South2015",,"1,382,764,027,114",28410,Millenials
+"Korea, South",2015,female,35-54 years,1372,8337331,16.46,"Korea, South2015",,"1,382,764,027,114",28410,Generation X
+"Korea, South",2015,male,15-24 years,421,3580725,11.76,"Korea, South2015",,"1,382,764,027,114",28410,Millenials
+"Korea, South",2015,female,15-24 years,256,3211732,7.97,"Korea, South2015",,"1,382,764,027,114",28410,Millenials
+"Korea, South",2015,male,5-14 years,17,2523952,0.67,"Korea, South2015",,"1,382,764,027,114",28410,Generation Z
+"Korea, South",2015,female,5-14 years,14,2347429,0.6,"Korea, South2015",,"1,382,764,027,114",28410,Generation Z
 Romania,1989,male,75+ years,138,374100,36.89,Romania1989,,"42,105,263,158",1973,G.I. Generation
 Romania,1989,male,35-54 years,734,2847600,25.78,Romania1989,,"42,105,263,158",1973,Silent
 Romania,1989,male,55-74 years,470,1824900,25.75,Romania1989,,"42,105,263,158",1973,G.I. Generation
@@ -20935,330 +20935,330 @@ Romania,2016,female,55-74 years,112,2462909,4.55,Romania2016,,"187,805,922,349",
 Romania,2016,female,35-54 years,96,2823207,3.4,Romania2016,,"187,805,922,349",10020,Generation X
 Romania,2016,female,25-34 years,27,1264645,2.13,Romania2016,,"187,805,922,349",10020,Millenials
 Romania,2016,female,15-24 years,14,1041307,1.34,Romania2016,,"187,805,922,349",10020,Millenials
-Russian Federation,1989,male,75+ years,1393,1349100,103.25,Russian Federation1989,,"506,500,173,960",3740,G.I. Generation
-Russian Federation,1989,male,35-54 years,12030,18058500,66.62,Russian Federation1989,,"506,500,173,960",3740,Silent
-Russian Federation,1989,male,55-74 years,6250,9383700,66.6,Russian Federation1989,,"506,500,173,960",3740,G.I. Generation
-Russian Federation,1989,male,25-34 years,6856,12748800,53.78,Russian Federation1989,,"506,500,173,960",3740,Boomers
-Russian Federation,1989,female,75+ years,1677,4738100,35.39,Russian Federation1989,,"506,500,173,960",3740,G.I. Generation
-Russian Federation,1989,male,15-24 years,2581,10073900,25.62,Russian Federation1989,,"506,500,173,960",3740,Generation X
-Russian Federation,1989,female,55-74 years,3042,15522500,19.6,Russian Federation1989,,"506,500,173,960",3740,G.I. Generation
-Russian Federation,1989,female,35-54 years,2326,19316700,12.04,Russian Federation1989,,"506,500,173,960",3740,Silent
-Russian Federation,1989,female,25-34 years,827,12470000,6.63,Russian Federation1989,,"506,500,173,960",3740,Boomers
-Russian Federation,1989,female,15-24 years,628,9650700,6.51,Russian Federation1989,,"506,500,173,960",3740,Generation X
-Russian Federation,1989,male,5-14 years,263,11233200,2.34,Russian Federation1989,,"506,500,173,960",3740,Generation X
-Russian Federation,1989,female,5-14 years,48,10898600,0.44,Russian Federation1989,,"506,500,173,960",3740,Generation X
-Russian Federation,1990,male,75+ years,1366,1382500,98.81,Russian Federation1990,,"516,814,274,022",3789,G.I. Generation
-Russian Federation,1990,male,35-54 years,12517,18495100,67.68,Russian Federation1990,,"516,814,274,022",3789,Silent
-Russian Federation,1990,male,55-74 years,6401,9577500,66.83,Russian Federation1990,,"516,814,274,022",3789,G.I. Generation
-Russian Federation,1990,male,25-34 years,6868,12477900,55.04,Russian Federation1990,,"516,814,274,022",3789,Boomers
-Russian Federation,1990,female,75+ years,1608,4847400,33.17,Russian Federation1990,,"516,814,274,022",3789,G.I. Generation
-Russian Federation,1990,male,15-24 years,2874,10059700,28.57,Russian Federation1990,,"516,814,274,022",3789,Generation X
-Russian Federation,1990,female,55-74 years,3064,15534000,19.72,Russian Federation1990,,"516,814,274,022",3789,G.I. Generation
-Russian Federation,1990,female,35-54 years,2467,19730400,12.5,Russian Federation1990,,"516,814,274,022",3789,Silent
-Russian Federation,1990,female,25-34 years,910,12197600,7.46,Russian Federation1990,,"516,814,274,022",3789,Boomers
-Russian Federation,1990,female,15-24 years,641,9649700,6.64,Russian Federation1990,,"516,814,274,022",3789,Generation X
-Russian Federation,1990,male,5-14 years,260,11397000,2.28,Russian Federation1990,,"516,814,274,022",3789,Generation X
-Russian Federation,1990,female,5-14 years,52,11049400,0.47,Russian Federation1990,,"516,814,274,022",3789,Generation X
-Russian Federation,1991,male,75+ years,1326,1371000,96.72,Russian Federation1991,,"517,962,962,963",3773,G.I. Generation
-Russian Federation,1991,male,35-54 years,12746,18782900,67.86,Russian Federation1991,,"517,962,962,963",3773,Boomers
-Russian Federation,1991,male,55-74 years,6566,9894400,66.36,Russian Federation1991,,"517,962,962,963",3773,Silent
-Russian Federation,1991,male,25-34 years,6901,12157500,56.76,Russian Federation1991,,"517,962,962,963",3773,Boomers
-Russian Federation,1991,female,75+ years,1510,4831000,31.26,Russian Federation1991,,"517,962,962,963",3773,G.I. Generation
-Russian Federation,1991,male,15-24 years,2984,10112700,29.51,Russian Federation1991,,"517,962,962,963",3773,Generation X
-Russian Federation,1991,female,55-74 years,2926,15781500,18.54,Russian Federation1991,,"517,962,962,963",3773,Silent
-Russian Federation,1991,female,35-54 years,2429,19987200,12.15,Russian Federation1991,,"517,962,962,963",3773,Boomers
-Russian Federation,1991,female,25-34 years,888,11901200,7.46,Russian Federation1991,,"517,962,962,963",3773,Boomers
-Russian Federation,1991,female,15-24 years,642,9697300,6.62,Russian Federation1991,,"517,962,962,963",3773,Generation X
-Russian Federation,1991,male,5-14 years,298,11561800,2.58,Russian Federation1991,,"517,962,962,963",3773,Millenials
-Russian Federation,1991,female,5-14 years,65,11204500,0.58,Russian Federation1991,,"517,962,962,963",3773,Millenials
-Russian Federation,1992,male,75+ years,1233,1340500,91.98,Russian Federation1992,,"460,290,556,901",3333,G.I. Generation
-Russian Federation,1992,male,35-54 years,15824,18933500,83.58,Russian Federation1992,,"460,290,556,901",3333,Boomers
-Russian Federation,1992,male,55-74 years,8014,10319200,77.66,Russian Federation1992,,"460,290,556,901",3333,Silent
-Russian Federation,1992,male,25-34 years,7958,11773600,67.59,Russian Federation1992,,"460,290,556,901",3333,Boomers
-Russian Federation,1992,male,15-24 years,3447,10235100,33.68,Russian Federation1992,,"460,290,556,901",3333,Generation X
-Russian Federation,1992,female,75+ years,1458,4741300,30.75,Russian Federation1992,,"460,290,556,901",3333,G.I. Generation
-Russian Federation,1992,female,55-74 years,3133,16206600,19.33,Russian Federation1992,,"460,290,556,901",3333,Silent
-Russian Federation,1992,female,35-54 years,2768,20093200,13.78,Russian Federation1992,,"460,290,556,901",3333,Boomers
-Russian Federation,1992,female,25-34 years,990,11561000,8.56,Russian Federation1992,,"460,290,556,901",3333,Boomers
-Russian Federation,1992,female,15-24 years,704,9791500,7.19,Russian Federation1992,,"460,290,556,901",3333,Generation X
-Russian Federation,1992,male,5-14 years,318,11747200,2.71,Russian Federation1992,,"460,290,556,901",3333,Millenials
-Russian Federation,1992,female,5-14 years,76,11376200,0.67,Russian Federation1992,,"460,290,556,901",3333,Millenials
-Russian Federation,1993,male,35-54 years,20256,18908000,107.13,Russian Federation1993,,"435,083,713,851",3160,Boomers
-Russian Federation,1993,male,75+ years,1364,1302200,104.75,Russian Federation1993,,"435,083,713,851",3160,G.I. Generation
-Russian Federation,1993,male,55-74 years,10118,10681300,94.73,Russian Federation1993,,"435,083,713,851",3160,Silent
-Russian Federation,1993,male,25-34 years,9328,11260400,82.84,Russian Federation1993,,"435,083,713,851",3160,Boomers
-Russian Federation,1993,male,15-24 years,4347,10306400,42.18,Russian Federation1993,,"435,083,713,851",3160,Generation X
-Russian Federation,1993,female,75+ years,1468,4615000,31.81,Russian Federation1993,,"435,083,713,851",3160,G.I. Generation
-Russian Federation,1993,female,55-74 years,3433,16579000,20.71,Russian Federation1993,,"435,083,713,851",3160,Silent
-Russian Federation,1993,female,35-54 years,3163,20012400,15.81,Russian Federation1993,,"435,083,713,851",3160,Boomers
-Russian Federation,1993,female,25-34 years,1154,11063800,10.43,Russian Federation1993,,"435,083,713,851",3160,Boomers
-Russian Federation,1993,female,15-24 years,785,9824100,7.99,Russian Federation1993,,"435,083,713,851",3160,Generation X
-Russian Federation,1993,male,5-14 years,337,11763700,2.86,Russian Federation1993,,"435,083,713,851",3160,Millenials
-Russian Federation,1993,female,5-14 years,93,11376500,0.82,Russian Federation1993,,"435,083,713,851",3160,Millenials
-Russian Federation,1994,male,35-54 years,22338,19044200,117.3,Russian Federation1994,,"395,077,301,248",2853,Boomers
-Russian Federation,1994,male,75+ years,1412,1281400,110.19,Russian Federation1994,,"395,077,301,248",2853,G.I. Generation
-Russian Federation,1994,male,55-74 years,11431,11006300,103.86,Russian Federation1994,,"395,077,301,248",2853,Silent
-Russian Federation,1994,male,25-34 years,10310,10947200,94.18,Russian Federation1994,,"395,077,301,248",2853,Boomers
-Russian Federation,1994,male,15-24 years,5177,10518500,49.22,Russian Federation1994,,"395,077,301,248",2853,Generation X
-Russian Federation,1994,female,75+ years,1454,4526500,32.12,Russian Federation1994,,"395,077,301,248",2853,G.I. Generation
-Russian Federation,1994,female,55-74 years,3489,16977700,20.55,Russian Federation1994,,"395,077,301,248",2853,Silent
-Russian Federation,1994,female,35-54 years,3257,20124300,16.18,Russian Federation1994,,"395,077,301,248",2853,Boomers
-Russian Federation,1994,female,25-34 years,1198,10708700,11.19,Russian Federation1994,,"395,077,301,248",2853,Boomers
-Russian Federation,1994,female,15-24 years,915,10036800,9.12,Russian Federation1994,,"395,077,301,248",2853,Generation X
-Russian Federation,1994,male,5-14 years,364,11857400,3.07,Russian Federation1994,,"395,077,301,248",2853,Millenials
-Russian Federation,1994,female,5-14 years,75,11447200,0.66,Russian Federation1994,,"395,077,301,248",2853,Millenials
-Russian Federation,1995,male,35-54 years,21706,19249600,112.76,Russian Federation1995,,"395,531,066,563",2844,Boomers
-Russian Federation,1995,male,55-74 years,11152,11227000,99.33,Russian Federation1995,,"395,531,066,563",2844,Silent
-Russian Federation,1995,male,75+ years,1182,1258900,93.89,Russian Federation1995,,"395,531,066,563",2844,G.I. Generation
-Russian Federation,1995,male,25-34 years,9787,10700700,91.46,Russian Federation1995,,"395,531,066,563",2844,Generation X
-Russian Federation,1995,male,15-24 years,5733,10678300,53.69,Russian Federation1995,,"395,531,066,563",2844,Generation X
-Russian Federation,1995,female,75+ years,1546,4436700,34.85,Russian Federation1995,,"395,531,066,563",2844,G.I. Generation
-Russian Federation,1995,female,55-74 years,3499,17293700,20.23,Russian Federation1995,,"395,531,066,563",2844,Silent
-Russian Federation,1995,female,35-54 years,3328,20339300,16.36,Russian Federation1995,,"395,531,066,563",2844,Boomers
-Russian Federation,1995,female,25-34 years,1179,10375900,11.36,Russian Federation1995,,"395,531,066,563",2844,Generation X
-Russian Federation,1995,female,15-24 years,1003,10253200,9.78,Russian Federation1995,,"395,531,066,563",2844,Generation X
-Russian Federation,1995,male,5-14 years,355,11854400,2.99,Russian Federation1995,,"395,531,066,563",2844,Millenials
-Russian Federation,1995,female,5-14 years,78,11419400,0.68,Russian Federation1995,,"395,531,066,563",2844,Millenials
-Russian Federation,1996,male,35-54 years,20562,19507100,105.41,Russian Federation1996,,"391,719,993,757",2813,Boomers
-Russian Federation,1996,male,75+ years,1192,1242800,95.91,Russian Federation1996,,"391,719,993,757",2813,G.I. Generation
-Russian Federation,1996,male,55-74 years,10754,11361400,94.65,Russian Federation1996,,"391,719,993,757",2813,Silent
-Russian Federation,1996,male,25-34 years,9214,10443600,88.23,Russian Federation1996,,"391,719,993,757",2813,Generation X
-Russian Federation,1996,male,15-24 years,5784,10772000,53.69,Russian Federation1996,,"391,719,993,757",2813,Generation X
-Russian Federation,1996,female,75+ years,1418,4369100,32.46,Russian Federation1996,,"391,719,993,757",2813,G.I. Generation
-Russian Federation,1996,female,55-74 years,3205,17502200,18.31,Russian Federation1996,,"391,719,993,757",2813,Silent
-Russian Federation,1996,female,35-54 years,2953,20618800,14.32,Russian Federation1996,,"391,719,993,757",2813,Boomers
-Russian Federation,1996,female,25-34 years,1127,10062400,11.2,Russian Federation1996,,"391,719,993,757",2813,Generation X
-Russian Federation,1996,female,15-24 years,904,10409100,8.68,Russian Federation1996,,"391,719,993,757",2813,Generation X
-Russian Federation,1996,male,5-14 years,320,11716700,2.73,Russian Federation1996,,"391,719,993,757",2813,Millenials
-Russian Federation,1996,female,5-14 years,78,11267400,0.69,Russian Federation1996,,"391,719,993,757",2813,Millenials
-Russian Federation,1997,male,75+ years,1205,1241100,97.09,Russian Federation1997,,"404,926,534,140",2907,G.I. Generation
-Russian Federation,1997,male,35-54 years,18973,19913400,95.28,Russian Federation1997,,"404,926,534,140",2907,Boomers
-Russian Federation,1997,male,55-74 years,10726,11327500,94.69,Russian Federation1997,,"404,926,534,140",2907,Silent
-Russian Federation,1997,male,25-34 years,8222,10242100,80.28,Russian Federation1997,,"404,926,534,140",2907,Generation X
-Russian Federation,1997,male,15-24 years,5780,10874000,53.15,Russian Federation1997,,"404,926,534,140",2907,Generation X
-Russian Federation,1997,female,75+ years,1424,4360900,32.65,Russian Federation1997,,"404,926,534,140",2907,G.I. Generation
-Russian Federation,1997,female,55-74 years,3180,17453600,18.22,Russian Federation1997,,"404,926,534,140",2907,Silent
-Russian Federation,1997,female,35-54 years,2819,21047500,13.39,Russian Federation1997,,"404,926,534,140",2907,Boomers
-Russian Federation,1997,female,25-34 years,1050,9833800,10.68,Russian Federation1997,,"404,926,534,140",2907,Generation X
-Russian Federation,1997,female,15-24 years,945,10556600,8.95,Russian Federation1997,,"404,926,534,140",2907,Generation X
-Russian Federation,1997,male,5-14 years,346,11444500,3.02,Russian Federation1997,,"404,926,534,140",2907,Millenials
-Russian Federation,1997,female,5-14 years,76,10988200,0.69,Russian Federation1997,,"404,926,534,140",2907,Millenials
-Russian Federation,1998,male,35-54 years,18058,20487900,88.14,Russian Federation1998,,"270,953,116,950",1948,Boomers
-Russian Federation,1998,male,75+ years,1110,1261400,88,Russian Federation1998,,"270,953,116,950",1948,G.I. Generation
-Russian Federation,1998,male,55-74 years,9683,11058100,87.56,Russian Federation1998,,"270,953,116,950",1948,Silent
-Russian Federation,1998,male,25-34 years,7634,10104200,75.55,Russian Federation1998,,"270,953,116,950",1948,Generation X
-Russian Federation,1998,male,15-24 years,5729,11040600,51.89,Russian Federation1998,,"270,953,116,950",1948,Generation X
-Russian Federation,1998,female,75+ years,1431,4434700,32.27,Russian Federation1998,,"270,953,116,950",1948,G.I. Generation
-Russian Federation,1998,female,55-74 years,2917,17046200,17.11,Russian Federation1998,,"270,953,116,950",1948,Silent
-Russian Federation,1998,female,35-54 years,2715,21695000,12.51,Russian Federation1998,,"270,953,116,950",1948,Boomers
-Russian Federation,1998,female,25-34 years,902,9685600,9.31,Russian Federation1998,,"270,953,116,950",1948,Generation X
-Russian Federation,1998,female,15-24 years,927,10752700,8.62,Russian Federation1998,,"270,953,116,950",1948,Generation X
-Russian Federation,1998,male,5-14 years,333,11006800,3.03,Russian Federation1998,,"270,953,116,950",1948,Millenials
-Russian Federation,1998,female,5-14 years,79,10548900,0.75,Russian Federation1998,,"270,953,116,950",1948,Millenials
-Russian Federation,1999,male,55-74 years,10609,10669100,99.44,Russian Federation1999,,"195,905,767,669",1412,Silent
-Russian Federation,1999,male,35-54 years,20705,21016400,98.52,Russian Federation1999,,"195,905,767,669",1412,Boomers
-Russian Federation,1999,male,75+ years,1128,1310400,86.08,Russian Federation1999,,"195,905,767,669",1412,G.I. Generation
-Russian Federation,1999,male,25-34 years,8101,10022400,80.83,Russian Federation1999,,"195,905,767,669",1412,Generation X
-Russian Federation,1999,male,15-24 years,6120,11232900,54.48,Russian Federation1999,,"195,905,767,669",1412,Generation X
-Russian Federation,1999,female,75+ years,1490,4569600,32.61,Russian Federation1999,,"195,905,767,669",1412,G.I. Generation
-Russian Federation,1999,female,55-74 years,3072,16457600,18.67,Russian Federation1999,,"195,905,767,669",1412,Silent
-Russian Federation,1999,female,35-54 years,3128,22337800,14,Russian Federation1999,,"195,905,767,669",1412,Boomers
-Russian Federation,1999,female,25-34 years,1041,9616300,10.83,Russian Federation1999,,"195,905,767,669",1412,Generation X
-Russian Federation,1999,female,15-24 years,1080,10957600,9.86,Russian Federation1999,,"195,905,767,669",1412,Generation X
-Russian Federation,1999,male,5-14 years,402,10490300,3.83,Russian Federation1999,,"195,905,767,669",1412,Millenials
-Russian Federation,1999,female,5-14 years,98,10037400,0.98,Russian Federation1999,,"195,905,767,669",1412,Millenials
-Russian Federation,2000,male,35-54 years,21063,21378098,98.53,Russian Federation2000,,"259,708,496,267",1879,Boomers
-Russian Federation,2000,male,55-74 years,9656,10282841,93.9,Russian Federation2000,,"259,708,496,267",1879,Silent
-Russian Federation,2000,male,25-34 years,8654,10025181,86.32,Russian Federation2000,,"259,708,496,267",1879,Generation X
-Russian Federation,2000,male,75+ years,1165,1380292,84.4,Russian Federation2000,,"259,708,496,267",1879,G.I. Generation
-Russian Federation,2000,male,15-24 years,6578,11393600,57.73,Russian Federation2000,,"259,708,496,267",1879,Generation X
-Russian Federation,2000,female,75+ years,1382,4729070,29.22,Russian Federation2000,,"259,708,496,267",1879,G.I. Generation
-Russian Federation,2000,female,55-74 years,2646,15887955,16.65,Russian Federation2000,,"259,708,496,267",1879,Silent
-Russian Federation,2000,female,35-54 years,2926,22830770,12.82,Russian Federation2000,,"259,708,496,267",1879,Boomers
-Russian Federation,2000,female,25-34 years,1027,9648389,10.64,Russian Federation2000,,"259,708,496,267",1879,Generation X
-Russian Federation,2000,female,15-24 years,1015,11120027,9.13,Russian Federation2000,,"259,708,496,267",1879,Generation X
-Russian Federation,2000,male,5-14 years,404,9986252,4.05,Russian Federation2000,,"259,708,496,267",1879,Millenials
-Russian Federation,2000,female,5-14 years,103,9543220,1.08,Russian Federation2000,,"259,708,496,267",1879,Millenials
-Russian Federation,2001,male,35-54 years,21262,21476420,99,Russian Federation2001,,"306,602,673,980",2229,Boomers
-Russian Federation,2001,male,55-74 years,9234,10030533,92.06,Russian Federation2001,,"306,602,673,980",2229,Silent
-Russian Federation,2001,male,25-34 years,8886,10078045,88.17,Russian Federation2001,,"306,602,673,980",2229,Generation X
-Russian Federation,2001,male,75+ years,1236,1485110,83.23,Russian Federation2001,,"306,602,673,980",2229,Silent
-Russian Federation,2001,male,15-24 years,6945,11547645,60.14,Russian Federation2001,,"306,602,673,980",2229,Millenials
-Russian Federation,2001,female,75+ years,1349,4919708,27.42,Russian Federation2001,,"306,602,673,980",2229,Silent
-Russian Federation,2001,female,55-74 years,2471,15506563,15.94,Russian Federation2001,,"306,602,673,980",2229,Silent
-Russian Federation,2001,female,35-54 years,2920,23046634,12.67,Russian Federation2001,,"306,602,673,980",2229,Boomers
-Russian Federation,2001,female,25-34 years,1087,9733290,11.17,Russian Federation2001,,"306,602,673,980",2229,Generation X
-Russian Federation,2001,female,15-24 years,1065,11270161,9.45,Russian Federation2001,,"306,602,673,980",2229,Millenials
-Russian Federation,2001,male,5-14 years,389,9428879,4.13,Russian Federation2001,,"306,602,673,980",2229,Millenials
-Russian Federation,2001,female,5-14 years,114,8998521,1.27,Russian Federation2001,,"306,602,673,980",2229,Millenials
-Russian Federation,2002,male,35-54 years,20119,21320535,94.36,Russian Federation2002,,"345,110,438,692",2527,Boomers
-Russian Federation,2002,male,55-74 years,8850,9892090,89.47,Russian Federation2002,,"345,110,438,692",2527,Silent
-Russian Federation,2002,male,25-34 years,8696,10156286,85.62,Russian Federation2002,,"345,110,438,692",2527,Generation X
-Russian Federation,2002,male,75+ years,1297,1622258,79.95,Russian Federation2002,,"345,110,438,692",2527,Silent
-Russian Federation,2002,male,15-24 years,6667,11714752,56.91,Russian Federation2002,,"345,110,438,692",2527,Millenials
-Russian Federation,2002,female,75+ years,1452,5126645,28.32,Russian Federation2002,,"345,110,438,692",2527,Silent
-Russian Federation,2002,female,55-74 years,2472,15292297,16.17,Russian Federation2002,,"345,110,438,692",2527,Silent
-Russian Federation,2002,female,35-54 years,2910,22995821,12.65,Russian Federation2002,,"345,110,438,692",2527,Boomers
-Russian Federation,2002,female,25-34 years,1086,9838656,11.04,Russian Federation2002,,"345,110,438,692",2527,Generation X
-Russian Federation,2002,female,15-24 years,1054,11425220,9.23,Russian Federation2002,,"345,110,438,692",2527,Millenials
-Russian Federation,2002,male,5-14 years,338,8810074,3.84,Russian Federation2002,,"345,110,438,692",2527,Millenials
-Russian Federation,2002,female,5-14 years,83,8396266,0.99,Russian Federation2002,,"345,110,438,692",2527,Millenials
-Russian Federation,2003,male,75+ years,1497,1648684,90.8,Russian Federation2003,,"430,347,770,732",3141,Silent
-Russian Federation,2003,male,35-54 years,18681,21007346,88.93,Russian Federation2003,,"430,347,770,732",3141,Boomers
-Russian Federation,2003,male,55-74 years,8314,9920853,83.8,Russian Federation2003,,"430,347,770,732",3141,Silent
-Russian Federation,2003,male,25-34 years,8085,10260634,78.8,Russian Federation2003,,"430,347,770,732",3141,Generation X
-Russian Federation,2003,male,15-24 years,6134,12256012,50.05,Russian Federation2003,,"430,347,770,732",3141,Millenials
-Russian Federation,2003,female,75+ years,1420,5170321,27.46,Russian Federation2003,,"430,347,770,732",3141,Silent
-Russian Federation,2003,female,55-74 years,2214,15243314,14.52,Russian Federation2003,,"430,347,770,732",3141,Silent
-Russian Federation,2003,female,35-54 years,2718,23024470,11.8,Russian Federation2003,,"430,347,770,732",3141,Boomers
-Russian Federation,2003,female,25-34 years,1050,10257511,10.24,Russian Federation2003,,"430,347,770,732",3141,Generation X
-Russian Federation,2003,female,15-24 years,969,11942216,8.11,Russian Federation2003,,"430,347,770,732",3141,Millenials
-Russian Federation,2003,male,5-14 years,284,8328381,3.41,Russian Federation2003,,"430,347,770,732",3141,Millenials
-Russian Federation,2003,female,5-14 years,79,7960126,0.99,Russian Federation2003,,"430,347,770,732",3141,Millenials
-Russian Federation,2004,male,75+ years,1580,1776778,88.93,Russian Federation2004,,"591,016,690,743",4312,Silent
-Russian Federation,2004,male,35-54 years,17465,20843896,83.79,Russian Federation2004,,"591,016,690,743",4312,Boomers
-Russian Federation,2004,male,55-74 years,7715,9924764,77.73,Russian Federation2004,,"591,016,690,743",4312,Silent
-Russian Federation,2004,male,25-34 years,7955,10461766,76.04,Russian Federation2004,,"591,016,690,743",4312,Generation X
-Russian Federation,2004,male,15-24 years,5891,12425537,47.41,Russian Federation2004,,"591,016,690,743",4312,Millenials
-Russian Federation,2004,female,75+ years,1398,5370057,26.03,Russian Federation2004,,"591,016,690,743",4312,Silent
-Russian Federation,2004,female,55-74 years,2029,15236313,13.32,Russian Federation2004,,"591,016,690,743",4312,Silent
-Russian Federation,2004,female,35-54 years,2668,22956701,11.62,Russian Federation2004,,"591,016,690,743",4312,Boomers
-Russian Federation,2004,female,25-34 years,1042,10494419,9.93,Russian Federation2004,,"591,016,690,743",4312,Generation X
-Russian Federation,2004,female,15-24 years,992,12088752,8.21,Russian Federation2004,,"591,016,690,743",4312,Millenials
-Russian Federation,2004,male,5-14 years,288,7919935,3.64,Russian Federation2004,,"591,016,690,743",4312,Millenials
-Russian Federation,2004,female,5-14 years,73,7572781,0.96,Russian Federation2004,,"591,016,690,743",4312,Millenials
-Russian Federation,2005,male,75+ years,1599,1885942,84.79,Russian Federation2005,,"764,017,107,992",5611,Silent
-Russian Federation,2005,male,35-54 years,15843,20550405,77.09,Russian Federation2005,,"764,017,107,992",5611,Boomers
-Russian Federation,2005,male,25-34 years,7796,10578048,73.7,Russian Federation2005,,"764,017,107,992",5611,Generation X
-Russian Federation,2005,male,55-74 years,7144,9977150,71.6,Russian Federation2005,,"764,017,107,992",5611,Silent
-Russian Federation,2005,male,15-24 years,5750,12357989,46.53,Russian Federation2005,,"764,017,107,992",5611,Millenials
-Russian Federation,2005,female,75+ years,1304,5535287,23.56,Russian Federation2005,,"764,017,107,992",5611,Silent
-Russian Federation,2005,female,55-74 years,1884,15297324,12.32,Russian Federation2005,,"764,017,107,992",5611,Silent
-Russian Federation,2005,female,35-54 years,2311,22722081,10.17,Russian Federation2005,,"764,017,107,992",5611,Boomers
-Russian Federation,2005,female,25-34 years,992,10640505,9.32,Russian Federation2005,,"764,017,107,992",5611,Generation X
-Russian Federation,2005,female,15-24 years,904,12011488,7.53,Russian Federation2005,,"764,017,107,992",5611,Millenials
-Russian Federation,2005,male,5-14 years,206,7467908,2.76,Russian Federation2005,,"764,017,107,992",5611,Millenials
-Russian Federation,2005,female,5-14 years,69,7138064,0.97,Russian Federation2005,,"764,017,107,992",5611,Millenials
-Russian Federation,2006,male,75+ years,1701,1966649,86.49,Russian Federation2006,,"989,930,542,279",7313,Silent
-Russian Federation,2006,male,25-34 years,7584,10691395,70.94,Russian Federation2006,,"989,930,542,279",7313,Generation X
-Russian Federation,2006,male,35-54 years,14020,20336306,68.94,Russian Federation2006,,"989,930,542,279",7313,Boomers
-Russian Federation,2006,male,55-74 years,6562,10054153,65.27,Russian Federation2006,,"989,930,542,279",7313,Silent
-Russian Federation,2006,male,15-24 years,5319,12174930,43.69,Russian Federation2006,,"989,930,542,279",7313,Millenials
-Russian Federation,2006,female,75+ years,1401,5646287,24.81,Russian Federation2006,,"989,930,542,279",7313,Silent
-Russian Federation,2006,female,55-74 years,1719,15405634,11.16,Russian Federation2006,,"989,930,542,279",7313,Silent
-Russian Federation,2006,female,35-54 years,2189,22545749,9.71,Russian Federation2006,,"989,930,542,279",7313,Boomers
-Russian Federation,2006,female,25-34 years,974,10784340,9.03,Russian Federation2006,,"989,930,542,279",7313,Generation X
-Russian Federation,2006,female,15-24 years,869,11819245,7.35,Russian Federation2006,,"989,930,542,279",7313,Millenials
-Russian Federation,2006,male,5-14 years,201,7123987,2.82,Russian Federation2006,,"989,930,542,279",7313,Millenials
-Russian Federation,2006,female,5-14 years,75,6808787,1.1,Russian Federation2006,,"989,930,542,279",7313,Millenials
-Russian Federation,2007,male,75+ years,1660,2015773,82.35,Russian Federation2007,,"1,299,705,247,686",9643,Silent
-Russian Federation,2007,male,25-34 years,7483,10843276,69.01,Russian Federation2007,,"1,299,705,247,686",9643,Generation X
-Russian Federation,2007,male,35-54 years,13065,20173873,64.76,Russian Federation2007,,"1,299,705,247,686",9643,Boomers
-Russian Federation,2007,male,55-74 years,6151,10209479,60.25,Russian Federation2007,,"1,299,705,247,686",9643,Silent
-Russian Federation,2007,male,15-24 years,5257,11862129,44.32,Russian Federation2007,,"1,299,705,247,686",9643,Millenials
-Russian Federation,2007,female,75+ years,1358,5710937,23.78,Russian Federation2007,,"1,299,705,247,686",9643,Silent
-Russian Federation,2007,female,55-74 years,1738,15620091,11.13,Russian Federation2007,,"1,299,705,247,686",9643,Silent
-Russian Federation,2007,female,35-54 years,2176,22379725,9.72,Russian Federation2007,,"1,299,705,247,686",9643,Boomers
-Russian Federation,2007,female,25-34 years,1051,10944247,9.6,Russian Federation2007,,"1,299,705,247,686",9643,Generation X
-Russian Federation,2007,female,15-24 years,949,11502702,8.25,Russian Federation2007,,"1,299,705,247,686",9643,Millenials
-Russian Federation,2007,male,5-14 years,192,6911384,2.78,Russian Federation2007,,"1,299,705,247,686",9643,Generation Z
-Russian Federation,2007,female,5-14 years,69,6605348,1.04,Russian Federation2007,,"1,299,705,247,686",9643,Generation Z
-Russian Federation,2008,male,75+ years,1712,2029226,84.37,Russian Federation2008,,"1,660,844,408,500",12359,Silent
-Russian Federation,2008,male,25-34 years,6860,11091377,61.85,Russian Federation2008,,"1,660,844,408,500",12359,Generation X
-Russian Federation,2008,male,35-54 years,11848,20041975,59.12,Russian Federation2008,,"1,660,844,408,500",12359,Boomers
-Russian Federation,2008,male,55-74 years,5855,10403205,56.28,Russian Federation2008,,"1,660,844,408,500",12359,Silent
-Russian Federation,2008,male,15-24 years,4863,11377099,42.74,Russian Federation2008,,"1,660,844,408,500",12359,Millenials
-Russian Federation,2008,female,75+ years,1285,5714841,22.49,Russian Federation2008,,"1,660,844,408,500",12359,Silent
-Russian Federation,2008,female,55-74 years,1613,15906813,10.14,Russian Federation2008,,"1,660,844,408,500",12359,Silent
-Russian Federation,2008,female,35-54 years,2040,22229346,9.18,Russian Federation2008,,"1,660,844,408,500",12359,Boomers
-Russian Federation,2008,female,25-34 years,981,11179123,8.78,Russian Federation2008,,"1,660,844,408,500",12359,Generation X
-Russian Federation,2008,female,15-24 years,916,11025088,8.31,Russian Federation2008,,"1,660,844,408,500",12359,Millenials
-Russian Federation,2008,male,5-14 years,148,6848169,2.16,Russian Federation2008,,"1,660,844,408,500",12359,Generation Z
-Russian Federation,2008,female,5-14 years,90,6539687,1.38,Russian Federation2008,,"1,660,844,408,500",12359,Generation Z
-Russian Federation,2009,male,75+ years,1534,2012787,76.21,Russian Federation2009,,"1,222,643,696,992",9118,Silent
-Russian Federation,2009,male,25-34 years,7233,11373727,63.59,Russian Federation2009,,"1,222,643,696,992",9118,Generation X
-Russian Federation,2009,male,35-54 years,11721,19901557,58.89,Russian Federation2009,,"1,222,643,696,992",9118,Boomers
-Russian Federation,2009,male,55-74 years,5637,10645241,52.95,Russian Federation2009,,"1,222,643,696,992",9118,Silent
-Russian Federation,2009,male,15-24 years,4632,10819693,42.81,Russian Federation2009,,"1,222,643,696,992",9118,Millenials
-Russian Federation,2009,female,75+ years,1133,5657810,20.03,Russian Federation2009,,"1,222,643,696,992",9118,Silent
-Russian Federation,2009,female,55-74 years,1519,16287675,9.33,Russian Federation2009,,"1,222,643,696,992",9118,Silent
-Russian Federation,2009,female,35-54 years,1930,22050450,8.75,Russian Federation2009,,"1,222,643,696,992",9118,Boomers
-Russian Federation,2009,female,25-34 years,986,11440839,8.62,Russian Federation2009,,"1,222,643,696,992",9118,Generation X
-Russian Federation,2009,female,15-24 years,839,10472951,8.01,Russian Federation2009,,"1,222,643,696,992",9118,Millenials
-Russian Federation,2009,male,5-14 years,166,6869835,2.42,Russian Federation2009,,"1,222,643,696,992",9118,Generation Z
-Russian Federation,2009,female,5-14 years,78,6552868,1.19,Russian Federation2009,,"1,222,643,696,992",9118,Generation Z
-Russian Federation,2010,male,75+ years,1506,2023458,74.43,Russian Federation2010,,"1,524,916,112,079",11307,Silent
-Russian Federation,2010,male,25-34 years,6508,11398127,57.1,Russian Federation2010,,"1,524,916,112,079",11307,Generation X
-Russian Federation,2010,male,35-54 years,10304,19786280,52.08,Russian Federation2010,,"1,524,916,112,079",11307,Generation X
-Russian Federation,2010,male,55-74 years,5178,11174530,46.34,Russian Federation2010,,"1,524,916,112,079",11307,Silent
-Russian Federation,2010,male,15-24 years,3934,10546669,37.3,Russian Federation2010,,"1,524,916,112,079",11307,Millenials
-Russian Federation,2010,female,75+ years,1041,5711389,18.23,Russian Federation2010,,"1,524,916,112,079",11307,Silent
-Russian Federation,2010,female,55-74 years,1354,16921727,8,Russian Federation2010,,"1,524,916,112,079",11307,Silent
-Russian Federation,2010,female,25-34 years,893,11473939,7.78,Russian Federation2010,,"1,524,916,112,079",11307,Generation X
-Russian Federation,2010,female,35-54 years,1680,21894031,7.67,Russian Federation2010,,"1,524,916,112,079",11307,Generation X
-Russian Federation,2010,female,15-24 years,763,10241329,7.45,Russian Federation2010,,"1,524,916,112,079",11307,Millenials
-Russian Federation,2010,male,5-14 years,131,7012170,1.87,Russian Federation2010,,"1,524,916,112,079",11307,Generation Z
-Russian Federation,2010,female,5-14 years,64,6682338,0.96,Russian Federation2010,,"1,524,916,112,079",11307,Generation Z
-Russian Federation,2011,male,75+ years,1485,2093449,70.94,Russian Federation2011,,"2,051,661,732,060",15226,Silent
-Russian Federation,2011,male,25-34 years,6011,11598196,51.83,Russian Federation2011,,"2,051,661,732,060",15226,Millenials
-Russian Federation,2011,male,35-54 years,9411,19684905,47.81,Russian Federation2011,,"2,051,661,732,060",15226,Generation X
-Russian Federation,2011,male,55-74 years,4892,11401026,42.91,Russian Federation2011,,"2,051,661,732,060",15226,Boomers
-Russian Federation,2011,male,15-24 years,3569,10070836,35.44,Russian Federation2011,,"2,051,661,732,060",15226,Millenials
-Russian Federation,2011,female,75+ years,1103,5829088,18.92,Russian Federation2011,,"2,051,661,732,060",15226,Silent
-Russian Federation,2011,female,15-24 years,740,9723773,7.61,Russian Federation2011,,"2,051,661,732,060",15226,Millenials
-Russian Federation,2011,female,55-74 years,1300,17200185,7.56,Russian Federation2011,,"2,051,661,732,060",15226,Boomers
-Russian Federation,2011,female,25-34 years,843,11638171,7.24,Russian Federation2011,,"2,051,661,732,060",15226,Millenials
-Russian Federation,2011,female,35-54 years,1515,21733089,6.97,Russian Federation2011,,"2,051,661,732,060",15226,Generation X
-Russian Federation,2011,male,5-14 years,102,7052757,1.45,Russian Federation2011,,"2,051,661,732,060",15226,Generation Z
-Russian Federation,2011,female,5-14 years,67,6720399,1,Russian Federation2011,,"2,051,661,732,060",15226,Generation Z
-Russian Federation,2012,male,75+ years,1486,2211989,67.18,Russian Federation2012,,"2,210,256,976,945",16413,Silent
-Russian Federation,2012,male,25-34 years,5762,11845892,48.64,Russian Federation2012,,"2,210,256,976,945",16413,Millenials
-Russian Federation,2012,male,35-54 years,8755,19588712,44.69,Russian Federation2012,,"2,210,256,976,945",16413,Generation X
-Russian Federation,2012,male,55-74 years,4804,11597408,41.42,Russian Federation2012,,"2,210,256,976,945",16413,Boomers
-Russian Federation,2012,male,15-24 years,3275,9484213,34.53,Russian Federation2012,,"2,210,256,976,945",16413,Millenials
-Russian Federation,2012,female,75+ years,1095,6062562,18.06,Russian Federation2012,,"2,210,256,976,945",16413,Silent
-Russian Federation,2012,female,25-34 years,866,11827264,7.32,Russian Federation2012,,"2,210,256,976,945",16413,Millenials
-Russian Federation,2012,female,35-54 years,1572,21564691,7.29,Russian Federation2012,,"2,210,256,976,945",16413,Generation X
-Russian Federation,2012,female,55-74 years,1229,17375445,7.07,Russian Federation2012,,"2,210,256,976,945",16413,Boomers
-Russian Federation,2012,female,15-24 years,627,9131383,6.87,Russian Federation2012,,"2,210,256,976,945",16413,Millenials
-Russian Federation,2012,male,5-14 years,107,7159170,1.49,Russian Federation2012,,"2,210,256,976,945",16413,Generation Z
-Russian Federation,2012,female,5-14 years,65,6819793,0.95,Russian Federation2012,,"2,210,256,976,945",16413,Generation Z
-Russian Federation,2013,male,75+ years,1549,2349484,65.93,Russian Federation2013,,"2,297,128,039,058",17052,Silent
-Russian Federation,2013,male,25-34 years,5825,12057910,48.31,Russian Federation2013,,"2,297,128,039,058",17052,Millenials
-Russian Federation,2013,male,35-54 years,8815,19484117,45.24,Russian Federation2013,,"2,297,128,039,058",17052,Generation X
-Russian Federation,2013,male,55-74 years,4644,11808589,39.33,Russian Federation2013,,"2,297,128,039,058",17052,Boomers
-Russian Federation,2013,male,15-24 years,2770,8908926,31.09,Russian Federation2013,,"2,297,128,039,058",17052,Millenials
-Russian Federation,2013,female,75+ years,1000,6355318,15.73,Russian Federation2013,,"2,297,128,039,058",17052,Silent
-Russian Federation,2013,female,35-54 years,1454,21385188,6.8,Russian Federation2013,,"2,297,128,039,058",17052,Generation X
-Russian Federation,2013,female,25-34 years,803,11984461,6.7,Russian Federation2013,,"2,297,128,039,058",17052,Millenials
-Russian Federation,2013,female,55-74 years,1154,17517861,6.59,Russian Federation2013,,"2,297,128,039,058",17052,Boomers
-Russian Federation,2013,female,15-24 years,511,8554683,5.97,Russian Federation2013,,"2,297,128,039,058",17052,Millenials
-Russian Federation,2013,male,5-14 years,111,7327888,1.51,Russian Federation2013,,"2,297,128,039,058",17052,Generation Z
-Russian Federation,2013,female,5-14 years,54,6979537,0.77,Russian Federation2013,,"2,297,128,039,058",17052,Generation Z
-Russian Federation,2014,male,75+ years,1597,2349484,67.97,Russian Federation2014,,"2,063,662,665,172",15319,Silent
-Russian Federation,2014,male,25-34 years,5276,12057910,43.76,Russian Federation2014,,"2,063,662,665,172",15319,Millenials
-Russian Federation,2014,male,35-54 years,8105,19484117,41.6,Russian Federation2014,,"2,063,662,665,172",15319,Generation X
-Russian Federation,2014,male,55-74 years,4501,11808589,38.12,Russian Federation2014,,"2,063,662,665,172",15319,Boomers
-Russian Federation,2014,male,15-24 years,2311,8908926,25.94,Russian Federation2014,,"2,063,662,665,172",15319,Millenials
-Russian Federation,2014,female,75+ years,1019,6355318,16.03,Russian Federation2014,,"2,063,662,665,172",15319,Silent
-Russian Federation,2014,female,55-74 years,1105,17517861,6.31,Russian Federation2014,,"2,063,662,665,172",15319,Boomers
-Russian Federation,2014,female,35-54 years,1297,21385188,6.06,Russian Federation2014,,"2,063,662,665,172",15319,Generation X
-Russian Federation,2014,female,25-34 years,723,11984461,6.03,Russian Federation2014,,"2,063,662,665,172",15319,Millenials
-Russian Federation,2014,female,15-24 years,467,8554683,5.46,Russian Federation2014,,"2,063,662,665,172",15319,Millenials
-Russian Federation,2014,male,5-14 years,96,7327888,1.31,Russian Federation2014,,"2,063,662,665,172",15319,Generation Z
-Russian Federation,2014,female,5-14 years,44,6979537,0.63,Russian Federation2014,,"2,063,662,665,172",15319,Generation Z
-Russian Federation,2015,male,75+ years,1519,2608590,58.23,Russian Federation2015,,"1,368,400,705,491",9987,Silent
-Russian Federation,2015,male,35-54 years,7898,19598084,40.3,Russian Federation2015,,"1,368,400,705,491",9987,Generation X
-Russian Federation,2015,male,25-34 years,4994,12407057,40.25,Russian Federation2015,,"1,368,400,705,491",9987,Millenials
-Russian Federation,2015,male,55-74 years,4443,12564884,35.36,Russian Federation2015,,"1,368,400,705,491",9987,Boomers
-Russian Federation,2015,male,15-24 years,1928,7995706,24.11,Russian Federation2015,,"1,368,400,705,491",9987,Millenials
-Russian Federation,2015,female,75+ years,953,6957819,13.7,Russian Federation2015,,"1,368,400,705,491",9987,Silent
-Russian Federation,2015,female,35-54 years,1391,21387236,6.5,Russian Federation2015,,"1,368,400,705,491",9987,Generation X
-Russian Federation,2015,female,25-34 years,730,12264840,5.95,Russian Federation2015,,"1,368,400,705,491",9987,Millenials
-Russian Federation,2015,female,55-74 years,1062,18280577,5.81,Russian Federation2015,,"1,368,400,705,491",9987,Boomers
-Russian Federation,2015,female,15-24 years,378,7653174,4.94,Russian Federation2015,,"1,368,400,705,491",9987,Millenials
-Russian Federation,2015,male,5-14 years,79,7836667,1.01,Russian Federation2015,,"1,368,400,705,491",9987,Generation Z
-Russian Federation,2015,female,5-14 years,57,7464309,0.76,Russian Federation2015,,"1,368,400,705,491",9987,Generation Z
+Russia,1989,male,75+ years,1393,1349100,103.25,Russia1989,,"506,500,173,960",3740,G.I. Generation
+Russia,1989,male,35-54 years,12030,18058500,66.62,Russia1989,,"506,500,173,960",3740,Silent
+Russia,1989,male,55-74 years,6250,9383700,66.6,Russia1989,,"506,500,173,960",3740,G.I. Generation
+Russia,1989,male,25-34 years,6856,12748800,53.78,Russia1989,,"506,500,173,960",3740,Boomers
+Russia,1989,female,75+ years,1677,4738100,35.39,Russia1989,,"506,500,173,960",3740,G.I. Generation
+Russia,1989,male,15-24 years,2581,10073900,25.62,Russia1989,,"506,500,173,960",3740,Generation X
+Russia,1989,female,55-74 years,3042,15522500,19.6,Russia1989,,"506,500,173,960",3740,G.I. Generation
+Russia,1989,female,35-54 years,2326,19316700,12.04,Russia1989,,"506,500,173,960",3740,Silent
+Russia,1989,female,25-34 years,827,12470000,6.63,Russia1989,,"506,500,173,960",3740,Boomers
+Russia,1989,female,15-24 years,628,9650700,6.51,Russia1989,,"506,500,173,960",3740,Generation X
+Russia,1989,male,5-14 years,263,11233200,2.34,Russia1989,,"506,500,173,960",3740,Generation X
+Russia,1989,female,5-14 years,48,10898600,0.44,Russia1989,,"506,500,173,960",3740,Generation X
+Russia,1990,male,75+ years,1366,1382500,98.81,Russia1990,,"516,814,274,022",3789,G.I. Generation
+Russia,1990,male,35-54 years,12517,18495100,67.68,Russia1990,,"516,814,274,022",3789,Silent
+Russia,1990,male,55-74 years,6401,9577500,66.83,Russia1990,,"516,814,274,022",3789,G.I. Generation
+Russia,1990,male,25-34 years,6868,12477900,55.04,Russia1990,,"516,814,274,022",3789,Boomers
+Russia,1990,female,75+ years,1608,4847400,33.17,Russia1990,,"516,814,274,022",3789,G.I. Generation
+Russia,1990,male,15-24 years,2874,10059700,28.57,Russia1990,,"516,814,274,022",3789,Generation X
+Russia,1990,female,55-74 years,3064,15534000,19.72,Russia1990,,"516,814,274,022",3789,G.I. Generation
+Russia,1990,female,35-54 years,2467,19730400,12.5,Russia1990,,"516,814,274,022",3789,Silent
+Russia,1990,female,25-34 years,910,12197600,7.46,Russia1990,,"516,814,274,022",3789,Boomers
+Russia,1990,female,15-24 years,641,9649700,6.64,Russia1990,,"516,814,274,022",3789,Generation X
+Russia,1990,male,5-14 years,260,11397000,2.28,Russia1990,,"516,814,274,022",3789,Generation X
+Russia,1990,female,5-14 years,52,11049400,0.47,Russia1990,,"516,814,274,022",3789,Generation X
+Russia,1991,male,75+ years,1326,1371000,96.72,Russia1991,,"517,962,962,963",3773,G.I. Generation
+Russia,1991,male,35-54 years,12746,18782900,67.86,Russia1991,,"517,962,962,963",3773,Boomers
+Russia,1991,male,55-74 years,6566,9894400,66.36,Russia1991,,"517,962,962,963",3773,Silent
+Russia,1991,male,25-34 years,6901,12157500,56.76,Russia1991,,"517,962,962,963",3773,Boomers
+Russia,1991,female,75+ years,1510,4831000,31.26,Russia1991,,"517,962,962,963",3773,G.I. Generation
+Russia,1991,male,15-24 years,2984,10112700,29.51,Russia1991,,"517,962,962,963",3773,Generation X
+Russia,1991,female,55-74 years,2926,15781500,18.54,Russia1991,,"517,962,962,963",3773,Silent
+Russia,1991,female,35-54 years,2429,19987200,12.15,Russia1991,,"517,962,962,963",3773,Boomers
+Russia,1991,female,25-34 years,888,11901200,7.46,Russia1991,,"517,962,962,963",3773,Boomers
+Russia,1991,female,15-24 years,642,9697300,6.62,Russia1991,,"517,962,962,963",3773,Generation X
+Russia,1991,male,5-14 years,298,11561800,2.58,Russia1991,,"517,962,962,963",3773,Millenials
+Russia,1991,female,5-14 years,65,11204500,0.58,Russia1991,,"517,962,962,963",3773,Millenials
+Russia,1992,male,75+ years,1233,1340500,91.98,Russia1992,,"460,290,556,901",3333,G.I. Generation
+Russia,1992,male,35-54 years,15824,18933500,83.58,Russia1992,,"460,290,556,901",3333,Boomers
+Russia,1992,male,55-74 years,8014,10319200,77.66,Russia1992,,"460,290,556,901",3333,Silent
+Russia,1992,male,25-34 years,7958,11773600,67.59,Russia1992,,"460,290,556,901",3333,Boomers
+Russia,1992,male,15-24 years,3447,10235100,33.68,Russia1992,,"460,290,556,901",3333,Generation X
+Russia,1992,female,75+ years,1458,4741300,30.75,Russia1992,,"460,290,556,901",3333,G.I. Generation
+Russia,1992,female,55-74 years,3133,16206600,19.33,Russia1992,,"460,290,556,901",3333,Silent
+Russia,1992,female,35-54 years,2768,20093200,13.78,Russia1992,,"460,290,556,901",3333,Boomers
+Russia,1992,female,25-34 years,990,11561000,8.56,Russia1992,,"460,290,556,901",3333,Boomers
+Russia,1992,female,15-24 years,704,9791500,7.19,Russia1992,,"460,290,556,901",3333,Generation X
+Russia,1992,male,5-14 years,318,11747200,2.71,Russia1992,,"460,290,556,901",3333,Millenials
+Russia,1992,female,5-14 years,76,11376200,0.67,Russia1992,,"460,290,556,901",3333,Millenials
+Russia,1993,male,35-54 years,20256,18908000,107.13,Russia1993,,"435,083,713,851",3160,Boomers
+Russia,1993,male,75+ years,1364,1302200,104.75,Russia1993,,"435,083,713,851",3160,G.I. Generation
+Russia,1993,male,55-74 years,10118,10681300,94.73,Russia1993,,"435,083,713,851",3160,Silent
+Russia,1993,male,25-34 years,9328,11260400,82.84,Russia1993,,"435,083,713,851",3160,Boomers
+Russia,1993,male,15-24 years,4347,10306400,42.18,Russia1993,,"435,083,713,851",3160,Generation X
+Russia,1993,female,75+ years,1468,4615000,31.81,Russia1993,,"435,083,713,851",3160,G.I. Generation
+Russia,1993,female,55-74 years,3433,16579000,20.71,Russia1993,,"435,083,713,851",3160,Silent
+Russia,1993,female,35-54 years,3163,20012400,15.81,Russia1993,,"435,083,713,851",3160,Boomers
+Russia,1993,female,25-34 years,1154,11063800,10.43,Russia1993,,"435,083,713,851",3160,Boomers
+Russia,1993,female,15-24 years,785,9824100,7.99,Russia1993,,"435,083,713,851",3160,Generation X
+Russia,1993,male,5-14 years,337,11763700,2.86,Russia1993,,"435,083,713,851",3160,Millenials
+Russia,1993,female,5-14 years,93,11376500,0.82,Russia1993,,"435,083,713,851",3160,Millenials
+Russia,1994,male,35-54 years,22338,19044200,117.3,Russia1994,,"395,077,301,248",2853,Boomers
+Russia,1994,male,75+ years,1412,1281400,110.19,Russia1994,,"395,077,301,248",2853,G.I. Generation
+Russia,1994,male,55-74 years,11431,11006300,103.86,Russia1994,,"395,077,301,248",2853,Silent
+Russia,1994,male,25-34 years,10310,10947200,94.18,Russia1994,,"395,077,301,248",2853,Boomers
+Russia,1994,male,15-24 years,5177,10518500,49.22,Russia1994,,"395,077,301,248",2853,Generation X
+Russia,1994,female,75+ years,1454,4526500,32.12,Russia1994,,"395,077,301,248",2853,G.I. Generation
+Russia,1994,female,55-74 years,3489,16977700,20.55,Russia1994,,"395,077,301,248",2853,Silent
+Russia,1994,female,35-54 years,3257,20124300,16.18,Russia1994,,"395,077,301,248",2853,Boomers
+Russia,1994,female,25-34 years,1198,10708700,11.19,Russia1994,,"395,077,301,248",2853,Boomers
+Russia,1994,female,15-24 years,915,10036800,9.12,Russia1994,,"395,077,301,248",2853,Generation X
+Russia,1994,male,5-14 years,364,11857400,3.07,Russia1994,,"395,077,301,248",2853,Millenials
+Russia,1994,female,5-14 years,75,11447200,0.66,Russia1994,,"395,077,301,248",2853,Millenials
+Russia,1995,male,35-54 years,21706,19249600,112.76,Russia1995,,"395,531,066,563",2844,Boomers
+Russia,1995,male,55-74 years,11152,11227000,99.33,Russia1995,,"395,531,066,563",2844,Silent
+Russia,1995,male,75+ years,1182,1258900,93.89,Russia1995,,"395,531,066,563",2844,G.I. Generation
+Russia,1995,male,25-34 years,9787,10700700,91.46,Russia1995,,"395,531,066,563",2844,Generation X
+Russia,1995,male,15-24 years,5733,10678300,53.69,Russia1995,,"395,531,066,563",2844,Generation X
+Russia,1995,female,75+ years,1546,4436700,34.85,Russia1995,,"395,531,066,563",2844,G.I. Generation
+Russia,1995,female,55-74 years,3499,17293700,20.23,Russia1995,,"395,531,066,563",2844,Silent
+Russia,1995,female,35-54 years,3328,20339300,16.36,Russia1995,,"395,531,066,563",2844,Boomers
+Russia,1995,female,25-34 years,1179,10375900,11.36,Russia1995,,"395,531,066,563",2844,Generation X
+Russia,1995,female,15-24 years,1003,10253200,9.78,Russia1995,,"395,531,066,563",2844,Generation X
+Russia,1995,male,5-14 years,355,11854400,2.99,Russia1995,,"395,531,066,563",2844,Millenials
+Russia,1995,female,5-14 years,78,11419400,0.68,Russia1995,,"395,531,066,563",2844,Millenials
+Russia,1996,male,35-54 years,20562,19507100,105.41,Russia1996,,"391,719,993,757",2813,Boomers
+Russia,1996,male,75+ years,1192,1242800,95.91,Russia1996,,"391,719,993,757",2813,G.I. Generation
+Russia,1996,male,55-74 years,10754,11361400,94.65,Russia1996,,"391,719,993,757",2813,Silent
+Russia,1996,male,25-34 years,9214,10443600,88.23,Russia1996,,"391,719,993,757",2813,Generation X
+Russia,1996,male,15-24 years,5784,10772000,53.69,Russia1996,,"391,719,993,757",2813,Generation X
+Russia,1996,female,75+ years,1418,4369100,32.46,Russia1996,,"391,719,993,757",2813,G.I. Generation
+Russia,1996,female,55-74 years,3205,17502200,18.31,Russia1996,,"391,719,993,757",2813,Silent
+Russia,1996,female,35-54 years,2953,20618800,14.32,Russia1996,,"391,719,993,757",2813,Boomers
+Russia,1996,female,25-34 years,1127,10062400,11.2,Russia1996,,"391,719,993,757",2813,Generation X
+Russia,1996,female,15-24 years,904,10409100,8.68,Russia1996,,"391,719,993,757",2813,Generation X
+Russia,1996,male,5-14 years,320,11716700,2.73,Russia1996,,"391,719,993,757",2813,Millenials
+Russia,1996,female,5-14 years,78,11267400,0.69,Russia1996,,"391,719,993,757",2813,Millenials
+Russia,1997,male,75+ years,1205,1241100,97.09,Russia1997,,"404,926,534,140",2907,G.I. Generation
+Russia,1997,male,35-54 years,18973,19913400,95.28,Russia1997,,"404,926,534,140",2907,Boomers
+Russia,1997,male,55-74 years,10726,11327500,94.69,Russia1997,,"404,926,534,140",2907,Silent
+Russia,1997,male,25-34 years,8222,10242100,80.28,Russia1997,,"404,926,534,140",2907,Generation X
+Russia,1997,male,15-24 years,5780,10874000,53.15,Russia1997,,"404,926,534,140",2907,Generation X
+Russia,1997,female,75+ years,1424,4360900,32.65,Russia1997,,"404,926,534,140",2907,G.I. Generation
+Russia,1997,female,55-74 years,3180,17453600,18.22,Russia1997,,"404,926,534,140",2907,Silent
+Russia,1997,female,35-54 years,2819,21047500,13.39,Russia1997,,"404,926,534,140",2907,Boomers
+Russia,1997,female,25-34 years,1050,9833800,10.68,Russia1997,,"404,926,534,140",2907,Generation X
+Russia,1997,female,15-24 years,945,10556600,8.95,Russia1997,,"404,926,534,140",2907,Generation X
+Russia,1997,male,5-14 years,346,11444500,3.02,Russia1997,,"404,926,534,140",2907,Millenials
+Russia,1997,female,5-14 years,76,10988200,0.69,Russia1997,,"404,926,534,140",2907,Millenials
+Russia,1998,male,35-54 years,18058,20487900,88.14,Russia1998,,"270,953,116,950",1948,Boomers
+Russia,1998,male,75+ years,1110,1261400,88,Russia1998,,"270,953,116,950",1948,G.I. Generation
+Russia,1998,male,55-74 years,9683,11058100,87.56,Russia1998,,"270,953,116,950",1948,Silent
+Russia,1998,male,25-34 years,7634,10104200,75.55,Russia1998,,"270,953,116,950",1948,Generation X
+Russia,1998,male,15-24 years,5729,11040600,51.89,Russia1998,,"270,953,116,950",1948,Generation X
+Russia,1998,female,75+ years,1431,4434700,32.27,Russia1998,,"270,953,116,950",1948,G.I. Generation
+Russia,1998,female,55-74 years,2917,17046200,17.11,Russia1998,,"270,953,116,950",1948,Silent
+Russia,1998,female,35-54 years,2715,21695000,12.51,Russia1998,,"270,953,116,950",1948,Boomers
+Russia,1998,female,25-34 years,902,9685600,9.31,Russia1998,,"270,953,116,950",1948,Generation X
+Russia,1998,female,15-24 years,927,10752700,8.62,Russia1998,,"270,953,116,950",1948,Generation X
+Russia,1998,male,5-14 years,333,11006800,3.03,Russia1998,,"270,953,116,950",1948,Millenials
+Russia,1998,female,5-14 years,79,10548900,0.75,Russia1998,,"270,953,116,950",1948,Millenials
+Russia,1999,male,55-74 years,10609,10669100,99.44,Russia1999,,"195,905,767,669",1412,Silent
+Russia,1999,male,35-54 years,20705,21016400,98.52,Russia1999,,"195,905,767,669",1412,Boomers
+Russia,1999,male,75+ years,1128,1310400,86.08,Russia1999,,"195,905,767,669",1412,G.I. Generation
+Russia,1999,male,25-34 years,8101,10022400,80.83,Russia1999,,"195,905,767,669",1412,Generation X
+Russia,1999,male,15-24 years,6120,11232900,54.48,Russia1999,,"195,905,767,669",1412,Generation X
+Russia,1999,female,75+ years,1490,4569600,32.61,Russia1999,,"195,905,767,669",1412,G.I. Generation
+Russia,1999,female,55-74 years,3072,16457600,18.67,Russia1999,,"195,905,767,669",1412,Silent
+Russia,1999,female,35-54 years,3128,22337800,14,Russia1999,,"195,905,767,669",1412,Boomers
+Russia,1999,female,25-34 years,1041,9616300,10.83,Russia1999,,"195,905,767,669",1412,Generation X
+Russia,1999,female,15-24 years,1080,10957600,9.86,Russia1999,,"195,905,767,669",1412,Generation X
+Russia,1999,male,5-14 years,402,10490300,3.83,Russia1999,,"195,905,767,669",1412,Millenials
+Russia,1999,female,5-14 years,98,10037400,0.98,Russia1999,,"195,905,767,669",1412,Millenials
+Russia,2000,male,35-54 years,21063,21378098,98.53,Russia2000,,"259,708,496,267",1879,Boomers
+Russia,2000,male,55-74 years,9656,10282841,93.9,Russia2000,,"259,708,496,267",1879,Silent
+Russia,2000,male,25-34 years,8654,10025181,86.32,Russia2000,,"259,708,496,267",1879,Generation X
+Russia,2000,male,75+ years,1165,1380292,84.4,Russia2000,,"259,708,496,267",1879,G.I. Generation
+Russia,2000,male,15-24 years,6578,11393600,57.73,Russia2000,,"259,708,496,267",1879,Generation X
+Russia,2000,female,75+ years,1382,4729070,29.22,Russia2000,,"259,708,496,267",1879,G.I. Generation
+Russia,2000,female,55-74 years,2646,15887955,16.65,Russia2000,,"259,708,496,267",1879,Silent
+Russia,2000,female,35-54 years,2926,22830770,12.82,Russia2000,,"259,708,496,267",1879,Boomers
+Russia,2000,female,25-34 years,1027,9648389,10.64,Russia2000,,"259,708,496,267",1879,Generation X
+Russia,2000,female,15-24 years,1015,11120027,9.13,Russia2000,,"259,708,496,267",1879,Generation X
+Russia,2000,male,5-14 years,404,9986252,4.05,Russia2000,,"259,708,496,267",1879,Millenials
+Russia,2000,female,5-14 years,103,9543220,1.08,Russia2000,,"259,708,496,267",1879,Millenials
+Russia,2001,male,35-54 years,21262,21476420,99,Russia2001,,"306,602,673,980",2229,Boomers
+Russia,2001,male,55-74 years,9234,10030533,92.06,Russia2001,,"306,602,673,980",2229,Silent
+Russia,2001,male,25-34 years,8886,10078045,88.17,Russia2001,,"306,602,673,980",2229,Generation X
+Russia,2001,male,75+ years,1236,1485110,83.23,Russia2001,,"306,602,673,980",2229,Silent
+Russia,2001,male,15-24 years,6945,11547645,60.14,Russia2001,,"306,602,673,980",2229,Millenials
+Russia,2001,female,75+ years,1349,4919708,27.42,Russia2001,,"306,602,673,980",2229,Silent
+Russia,2001,female,55-74 years,2471,15506563,15.94,Russia2001,,"306,602,673,980",2229,Silent
+Russia,2001,female,35-54 years,2920,23046634,12.67,Russia2001,,"306,602,673,980",2229,Boomers
+Russia,2001,female,25-34 years,1087,9733290,11.17,Russia2001,,"306,602,673,980",2229,Generation X
+Russia,2001,female,15-24 years,1065,11270161,9.45,Russia2001,,"306,602,673,980",2229,Millenials
+Russia,2001,male,5-14 years,389,9428879,4.13,Russia2001,,"306,602,673,980",2229,Millenials
+Russia,2001,female,5-14 years,114,8998521,1.27,Russia2001,,"306,602,673,980",2229,Millenials
+Russia,2002,male,35-54 years,20119,21320535,94.36,Russia2002,,"345,110,438,692",2527,Boomers
+Russia,2002,male,55-74 years,8850,9892090,89.47,Russia2002,,"345,110,438,692",2527,Silent
+Russia,2002,male,25-34 years,8696,10156286,85.62,Russia2002,,"345,110,438,692",2527,Generation X
+Russia,2002,male,75+ years,1297,1622258,79.95,Russia2002,,"345,110,438,692",2527,Silent
+Russia,2002,male,15-24 years,6667,11714752,56.91,Russia2002,,"345,110,438,692",2527,Millenials
+Russia,2002,female,75+ years,1452,5126645,28.32,Russia2002,,"345,110,438,692",2527,Silent
+Russia,2002,female,55-74 years,2472,15292297,16.17,Russia2002,,"345,110,438,692",2527,Silent
+Russia,2002,female,35-54 years,2910,22995821,12.65,Russia2002,,"345,110,438,692",2527,Boomers
+Russia,2002,female,25-34 years,1086,9838656,11.04,Russia2002,,"345,110,438,692",2527,Generation X
+Russia,2002,female,15-24 years,1054,11425220,9.23,Russia2002,,"345,110,438,692",2527,Millenials
+Russia,2002,male,5-14 years,338,8810074,3.84,Russia2002,,"345,110,438,692",2527,Millenials
+Russia,2002,female,5-14 years,83,8396266,0.99,Russia2002,,"345,110,438,692",2527,Millenials
+Russia,2003,male,75+ years,1497,1648684,90.8,Russia2003,,"430,347,770,732",3141,Silent
+Russia,2003,male,35-54 years,18681,21007346,88.93,Russia2003,,"430,347,770,732",3141,Boomers
+Russia,2003,male,55-74 years,8314,9920853,83.8,Russia2003,,"430,347,770,732",3141,Silent
+Russia,2003,male,25-34 years,8085,10260634,78.8,Russia2003,,"430,347,770,732",3141,Generation X
+Russia,2003,male,15-24 years,6134,12256012,50.05,Russia2003,,"430,347,770,732",3141,Millenials
+Russia,2003,female,75+ years,1420,5170321,27.46,Russia2003,,"430,347,770,732",3141,Silent
+Russia,2003,female,55-74 years,2214,15243314,14.52,Russia2003,,"430,347,770,732",3141,Silent
+Russia,2003,female,35-54 years,2718,23024470,11.8,Russia2003,,"430,347,770,732",3141,Boomers
+Russia,2003,female,25-34 years,1050,10257511,10.24,Russia2003,,"430,347,770,732",3141,Generation X
+Russia,2003,female,15-24 years,969,11942216,8.11,Russia2003,,"430,347,770,732",3141,Millenials
+Russia,2003,male,5-14 years,284,8328381,3.41,Russia2003,,"430,347,770,732",3141,Millenials
+Russia,2003,female,5-14 years,79,7960126,0.99,Russia2003,,"430,347,770,732",3141,Millenials
+Russia,2004,male,75+ years,1580,1776778,88.93,Russia2004,,"591,016,690,743",4312,Silent
+Russia,2004,male,35-54 years,17465,20843896,83.79,Russia2004,,"591,016,690,743",4312,Boomers
+Russia,2004,male,55-74 years,7715,9924764,77.73,Russia2004,,"591,016,690,743",4312,Silent
+Russia,2004,male,25-34 years,7955,10461766,76.04,Russia2004,,"591,016,690,743",4312,Generation X
+Russia,2004,male,15-24 years,5891,12425537,47.41,Russia2004,,"591,016,690,743",4312,Millenials
+Russia,2004,female,75+ years,1398,5370057,26.03,Russia2004,,"591,016,690,743",4312,Silent
+Russia,2004,female,55-74 years,2029,15236313,13.32,Russia2004,,"591,016,690,743",4312,Silent
+Russia,2004,female,35-54 years,2668,22956701,11.62,Russia2004,,"591,016,690,743",4312,Boomers
+Russia,2004,female,25-34 years,1042,10494419,9.93,Russia2004,,"591,016,690,743",4312,Generation X
+Russia,2004,female,15-24 years,992,12088752,8.21,Russia2004,,"591,016,690,743",4312,Millenials
+Russia,2004,male,5-14 years,288,7919935,3.64,Russia2004,,"591,016,690,743",4312,Millenials
+Russia,2004,female,5-14 years,73,7572781,0.96,Russia2004,,"591,016,690,743",4312,Millenials
+Russia,2005,male,75+ years,1599,1885942,84.79,Russia2005,,"764,017,107,992",5611,Silent
+Russia,2005,male,35-54 years,15843,20550405,77.09,Russia2005,,"764,017,107,992",5611,Boomers
+Russia,2005,male,25-34 years,7796,10578048,73.7,Russia2005,,"764,017,107,992",5611,Generation X
+Russia,2005,male,55-74 years,7144,9977150,71.6,Russia2005,,"764,017,107,992",5611,Silent
+Russia,2005,male,15-24 years,5750,12357989,46.53,Russia2005,,"764,017,107,992",5611,Millenials
+Russia,2005,female,75+ years,1304,5535287,23.56,Russia2005,,"764,017,107,992",5611,Silent
+Russia,2005,female,55-74 years,1884,15297324,12.32,Russia2005,,"764,017,107,992",5611,Silent
+Russia,2005,female,35-54 years,2311,22722081,10.17,Russia2005,,"764,017,107,992",5611,Boomers
+Russia,2005,female,25-34 years,992,10640505,9.32,Russia2005,,"764,017,107,992",5611,Generation X
+Russia,2005,female,15-24 years,904,12011488,7.53,Russia2005,,"764,017,107,992",5611,Millenials
+Russia,2005,male,5-14 years,206,7467908,2.76,Russia2005,,"764,017,107,992",5611,Millenials
+Russia,2005,female,5-14 years,69,7138064,0.97,Russia2005,,"764,017,107,992",5611,Millenials
+Russia,2006,male,75+ years,1701,1966649,86.49,Russia2006,,"989,930,542,279",7313,Silent
+Russia,2006,male,25-34 years,7584,10691395,70.94,Russia2006,,"989,930,542,279",7313,Generation X
+Russia,2006,male,35-54 years,14020,20336306,68.94,Russia2006,,"989,930,542,279",7313,Boomers
+Russia,2006,male,55-74 years,6562,10054153,65.27,Russia2006,,"989,930,542,279",7313,Silent
+Russia,2006,male,15-24 years,5319,12174930,43.69,Russia2006,,"989,930,542,279",7313,Millenials
+Russia,2006,female,75+ years,1401,5646287,24.81,Russia2006,,"989,930,542,279",7313,Silent
+Russia,2006,female,55-74 years,1719,15405634,11.16,Russia2006,,"989,930,542,279",7313,Silent
+Russia,2006,female,35-54 years,2189,22545749,9.71,Russia2006,,"989,930,542,279",7313,Boomers
+Russia,2006,female,25-34 years,974,10784340,9.03,Russia2006,,"989,930,542,279",7313,Generation X
+Russia,2006,female,15-24 years,869,11819245,7.35,Russia2006,,"989,930,542,279",7313,Millenials
+Russia,2006,male,5-14 years,201,7123987,2.82,Russia2006,,"989,930,542,279",7313,Millenials
+Russia,2006,female,5-14 years,75,6808787,1.1,Russia2006,,"989,930,542,279",7313,Millenials
+Russia,2007,male,75+ years,1660,2015773,82.35,Russia2007,,"1,299,705,247,686",9643,Silent
+Russia,2007,male,25-34 years,7483,10843276,69.01,Russia2007,,"1,299,705,247,686",9643,Generation X
+Russia,2007,male,35-54 years,13065,20173873,64.76,Russia2007,,"1,299,705,247,686",9643,Boomers
+Russia,2007,male,55-74 years,6151,10209479,60.25,Russia2007,,"1,299,705,247,686",9643,Silent
+Russia,2007,male,15-24 years,5257,11862129,44.32,Russia2007,,"1,299,705,247,686",9643,Millenials
+Russia,2007,female,75+ years,1358,5710937,23.78,Russia2007,,"1,299,705,247,686",9643,Silent
+Russia,2007,female,55-74 years,1738,15620091,11.13,Russia2007,,"1,299,705,247,686",9643,Silent
+Russia,2007,female,35-54 years,2176,22379725,9.72,Russia2007,,"1,299,705,247,686",9643,Boomers
+Russia,2007,female,25-34 years,1051,10944247,9.6,Russia2007,,"1,299,705,247,686",9643,Generation X
+Russia,2007,female,15-24 years,949,11502702,8.25,Russia2007,,"1,299,705,247,686",9643,Millenials
+Russia,2007,male,5-14 years,192,6911384,2.78,Russia2007,,"1,299,705,247,686",9643,Generation Z
+Russia,2007,female,5-14 years,69,6605348,1.04,Russia2007,,"1,299,705,247,686",9643,Generation Z
+Russia,2008,male,75+ years,1712,2029226,84.37,Russia2008,,"1,660,844,408,500",12359,Silent
+Russia,2008,male,25-34 years,6860,11091377,61.85,Russia2008,,"1,660,844,408,500",12359,Generation X
+Russia,2008,male,35-54 years,11848,20041975,59.12,Russia2008,,"1,660,844,408,500",12359,Boomers
+Russia,2008,male,55-74 years,5855,10403205,56.28,Russia2008,,"1,660,844,408,500",12359,Silent
+Russia,2008,male,15-24 years,4863,11377099,42.74,Russia2008,,"1,660,844,408,500",12359,Millenials
+Russia,2008,female,75+ years,1285,5714841,22.49,Russia2008,,"1,660,844,408,500",12359,Silent
+Russia,2008,female,55-74 years,1613,15906813,10.14,Russia2008,,"1,660,844,408,500",12359,Silent
+Russia,2008,female,35-54 years,2040,22229346,9.18,Russia2008,,"1,660,844,408,500",12359,Boomers
+Russia,2008,female,25-34 years,981,11179123,8.78,Russia2008,,"1,660,844,408,500",12359,Generation X
+Russia,2008,female,15-24 years,916,11025088,8.31,Russia2008,,"1,660,844,408,500",12359,Millenials
+Russia,2008,male,5-14 years,148,6848169,2.16,Russia2008,,"1,660,844,408,500",12359,Generation Z
+Russia,2008,female,5-14 years,90,6539687,1.38,Russia2008,,"1,660,844,408,500",12359,Generation Z
+Russia,2009,male,75+ years,1534,2012787,76.21,Russia2009,,"1,222,643,696,992",9118,Silent
+Russia,2009,male,25-34 years,7233,11373727,63.59,Russia2009,,"1,222,643,696,992",9118,Generation X
+Russia,2009,male,35-54 years,11721,19901557,58.89,Russia2009,,"1,222,643,696,992",9118,Boomers
+Russia,2009,male,55-74 years,5637,10645241,52.95,Russia2009,,"1,222,643,696,992",9118,Silent
+Russia,2009,male,15-24 years,4632,10819693,42.81,Russia2009,,"1,222,643,696,992",9118,Millenials
+Russia,2009,female,75+ years,1133,5657810,20.03,Russia2009,,"1,222,643,696,992",9118,Silent
+Russia,2009,female,55-74 years,1519,16287675,9.33,Russia2009,,"1,222,643,696,992",9118,Silent
+Russia,2009,female,35-54 years,1930,22050450,8.75,Russia2009,,"1,222,643,696,992",9118,Boomers
+Russia,2009,female,25-34 years,986,11440839,8.62,Russia2009,,"1,222,643,696,992",9118,Generation X
+Russia,2009,female,15-24 years,839,10472951,8.01,Russia2009,,"1,222,643,696,992",9118,Millenials
+Russia,2009,male,5-14 years,166,6869835,2.42,Russia2009,,"1,222,643,696,992",9118,Generation Z
+Russia,2009,female,5-14 years,78,6552868,1.19,Russia2009,,"1,222,643,696,992",9118,Generation Z
+Russia,2010,male,75+ years,1506,2023458,74.43,Russia2010,,"1,524,916,112,079",11307,Silent
+Russia,2010,male,25-34 years,6508,11398127,57.1,Russia2010,,"1,524,916,112,079",11307,Generation X
+Russia,2010,male,35-54 years,10304,19786280,52.08,Russia2010,,"1,524,916,112,079",11307,Generation X
+Russia,2010,male,55-74 years,5178,11174530,46.34,Russia2010,,"1,524,916,112,079",11307,Silent
+Russia,2010,male,15-24 years,3934,10546669,37.3,Russia2010,,"1,524,916,112,079",11307,Millenials
+Russia,2010,female,75+ years,1041,5711389,18.23,Russia2010,,"1,524,916,112,079",11307,Silent
+Russia,2010,female,55-74 years,1354,16921727,8,Russia2010,,"1,524,916,112,079",11307,Silent
+Russia,2010,female,25-34 years,893,11473939,7.78,Russia2010,,"1,524,916,112,079",11307,Generation X
+Russia,2010,female,35-54 years,1680,21894031,7.67,Russia2010,,"1,524,916,112,079",11307,Generation X
+Russia,2010,female,15-24 years,763,10241329,7.45,Russia2010,,"1,524,916,112,079",11307,Millenials
+Russia,2010,male,5-14 years,131,7012170,1.87,Russia2010,,"1,524,916,112,079",11307,Generation Z
+Russia,2010,female,5-14 years,64,6682338,0.96,Russia2010,,"1,524,916,112,079",11307,Generation Z
+Russia,2011,male,75+ years,1485,2093449,70.94,Russia2011,,"2,051,661,732,060",15226,Silent
+Russia,2011,male,25-34 years,6011,11598196,51.83,Russia2011,,"2,051,661,732,060",15226,Millenials
+Russia,2011,male,35-54 years,9411,19684905,47.81,Russia2011,,"2,051,661,732,060",15226,Generation X
+Russia,2011,male,55-74 years,4892,11401026,42.91,Russia2011,,"2,051,661,732,060",15226,Boomers
+Russia,2011,male,15-24 years,3569,10070836,35.44,Russia2011,,"2,051,661,732,060",15226,Millenials
+Russia,2011,female,75+ years,1103,5829088,18.92,Russia2011,,"2,051,661,732,060",15226,Silent
+Russia,2011,female,15-24 years,740,9723773,7.61,Russia2011,,"2,051,661,732,060",15226,Millenials
+Russia,2011,female,55-74 years,1300,17200185,7.56,Russia2011,,"2,051,661,732,060",15226,Boomers
+Russia,2011,female,25-34 years,843,11638171,7.24,Russia2011,,"2,051,661,732,060",15226,Millenials
+Russia,2011,female,35-54 years,1515,21733089,6.97,Russia2011,,"2,051,661,732,060",15226,Generation X
+Russia,2011,male,5-14 years,102,7052757,1.45,Russia2011,,"2,051,661,732,060",15226,Generation Z
+Russia,2011,female,5-14 years,67,6720399,1,Russia2011,,"2,051,661,732,060",15226,Generation Z
+Russia,2012,male,75+ years,1486,2211989,67.18,Russia2012,,"2,210,256,976,945",16413,Silent
+Russia,2012,male,25-34 years,5762,11845892,48.64,Russia2012,,"2,210,256,976,945",16413,Millenials
+Russia,2012,male,35-54 years,8755,19588712,44.69,Russia2012,,"2,210,256,976,945",16413,Generation X
+Russia,2012,male,55-74 years,4804,11597408,41.42,Russia2012,,"2,210,256,976,945",16413,Boomers
+Russia,2012,male,15-24 years,3275,9484213,34.53,Russia2012,,"2,210,256,976,945",16413,Millenials
+Russia,2012,female,75+ years,1095,6062562,18.06,Russia2012,,"2,210,256,976,945",16413,Silent
+Russia,2012,female,25-34 years,866,11827264,7.32,Russia2012,,"2,210,256,976,945",16413,Millenials
+Russia,2012,female,35-54 years,1572,21564691,7.29,Russia2012,,"2,210,256,976,945",16413,Generation X
+Russia,2012,female,55-74 years,1229,17375445,7.07,Russia2012,,"2,210,256,976,945",16413,Boomers
+Russia,2012,female,15-24 years,627,9131383,6.87,Russia2012,,"2,210,256,976,945",16413,Millenials
+Russia,2012,male,5-14 years,107,7159170,1.49,Russia2012,,"2,210,256,976,945",16413,Generation Z
+Russia,2012,female,5-14 years,65,6819793,0.95,Russia2012,,"2,210,256,976,945",16413,Generation Z
+Russia,2013,male,75+ years,1549,2349484,65.93,Russia2013,,"2,297,128,039,058",17052,Silent
+Russia,2013,male,25-34 years,5825,12057910,48.31,Russia2013,,"2,297,128,039,058",17052,Millenials
+Russia,2013,male,35-54 years,8815,19484117,45.24,Russia2013,,"2,297,128,039,058",17052,Generation X
+Russia,2013,male,55-74 years,4644,11808589,39.33,Russia2013,,"2,297,128,039,058",17052,Boomers
+Russia,2013,male,15-24 years,2770,8908926,31.09,Russia2013,,"2,297,128,039,058",17052,Millenials
+Russia,2013,female,75+ years,1000,6355318,15.73,Russia2013,,"2,297,128,039,058",17052,Silent
+Russia,2013,female,35-54 years,1454,21385188,6.8,Russia2013,,"2,297,128,039,058",17052,Generation X
+Russia,2013,female,25-34 years,803,11984461,6.7,Russia2013,,"2,297,128,039,058",17052,Millenials
+Russia,2013,female,55-74 years,1154,17517861,6.59,Russia2013,,"2,297,128,039,058",17052,Boomers
+Russia,2013,female,15-24 years,511,8554683,5.97,Russia2013,,"2,297,128,039,058",17052,Millenials
+Russia,2013,male,5-14 years,111,7327888,1.51,Russia2013,,"2,297,128,039,058",17052,Generation Z
+Russia,2013,female,5-14 years,54,6979537,0.77,Russia2013,,"2,297,128,039,058",17052,Generation Z
+Russia,2014,male,75+ years,1597,2349484,67.97,Russia2014,,"2,063,662,665,172",15319,Silent
+Russia,2014,male,25-34 years,5276,12057910,43.76,Russia2014,,"2,063,662,665,172",15319,Millenials
+Russia,2014,male,35-54 years,8105,19484117,41.6,Russia2014,,"2,063,662,665,172",15319,Generation X
+Russia,2014,male,55-74 years,4501,11808589,38.12,Russia2014,,"2,063,662,665,172",15319,Boomers
+Russia,2014,male,15-24 years,2311,8908926,25.94,Russia2014,,"2,063,662,665,172",15319,Millenials
+Russia,2014,female,75+ years,1019,6355318,16.03,Russia2014,,"2,063,662,665,172",15319,Silent
+Russia,2014,female,55-74 years,1105,17517861,6.31,Russia2014,,"2,063,662,665,172",15319,Boomers
+Russia,2014,female,35-54 years,1297,21385188,6.06,Russia2014,,"2,063,662,665,172",15319,Generation X
+Russia,2014,female,25-34 years,723,11984461,6.03,Russia2014,,"2,063,662,665,172",15319,Millenials
+Russia,2014,female,15-24 years,467,8554683,5.46,Russia2014,,"2,063,662,665,172",15319,Millenials
+Russia,2014,male,5-14 years,96,7327888,1.31,Russia2014,,"2,063,662,665,172",15319,Generation Z
+Russia,2014,female,5-14 years,44,6979537,0.63,Russia2014,,"2,063,662,665,172",15319,Generation Z
+Russia,2015,male,75+ years,1519,2608590,58.23,Russia2015,,"1,368,400,705,491",9987,Silent
+Russia,2015,male,35-54 years,7898,19598084,40.3,Russia2015,,"1,368,400,705,491",9987,Generation X
+Russia,2015,male,25-34 years,4994,12407057,40.25,Russia2015,,"1,368,400,705,491",9987,Millenials
+Russia,2015,male,55-74 years,4443,12564884,35.36,Russia2015,,"1,368,400,705,491",9987,Boomers
+Russia,2015,male,15-24 years,1928,7995706,24.11,Russia2015,,"1,368,400,705,491",9987,Millenials
+Russia,2015,female,75+ years,953,6957819,13.7,Russia2015,,"1,368,400,705,491",9987,Silent
+Russia,2015,female,35-54 years,1391,21387236,6.5,Russia2015,,"1,368,400,705,491",9987,Generation X
+Russia,2015,female,25-34 years,730,12264840,5.95,Russia2015,,"1,368,400,705,491",9987,Millenials
+Russia,2015,female,55-74 years,1062,18280577,5.81,Russia2015,,"1,368,400,705,491",9987,Boomers
+Russia,2015,female,15-24 years,378,7653174,4.94,Russia2015,,"1,368,400,705,491",9987,Millenials
+Russia,2015,male,5-14 years,79,7836667,1.01,Russia2015,,"1,368,400,705,491",9987,Generation Z
+Russia,2015,female,5-14 years,57,7464309,0.76,Russia2015,,"1,368,400,705,491",9987,Generation Z
 Saint Kitts and Nevis,1990,female,15-24 years,0,4900,0,Saint Kitts and Nevis1990,,"208,740,444",5339,Generation X
 Saint Kitts and Nevis,1990,female,25-34 years,0,2600,0,Saint Kitts and Nevis1990,,"208,740,444",5339,Boomers
 Saint Kitts and Nevis,1990,female,35-54 years,0,2900,0,Saint Kitts and Nevis1990,,"208,740,444",5339,Silent
